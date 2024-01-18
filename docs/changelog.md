@@ -20,3 +20,4 @@
 - 2024-01-18 16:42: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-01-18 17:53: feat(export): CSV ledger export with localized currency format
 - 2024-01-18 18:29: docs(api): document transaction pagination and filter schema
+- 2024-01-18 19:06: feat(recurring): automated subscription cadence detection algorithm
