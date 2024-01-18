@@ -9,3 +9,4 @@
 - 2024-01-18 10:46: fix(db): optimize monthly budget aggregation query
 - 2024-01-18 10:51: feat(alerts): push notification triggers on budget threshold breach
 - 2024-01-18 11:31: feat(alerts): push notification triggers on budget threshold breach
+- 2024-01-18 11:41: feat(alerts): push notification triggers on budget threshold breach
