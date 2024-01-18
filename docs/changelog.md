@@ -22,3 +22,4 @@
 - 2024-01-18 18:29: docs(api): document transaction pagination and filter schema
 - 2024-01-18 19:06: feat(recurring): automated subscription cadence detection algorithm
 - 2024-01-18 20:45: refactor(api): edge route handler for rapid ledger calculation
+- 2024-01-18 21:16: feat(alerts): push notification triggers on budget threshold breach
