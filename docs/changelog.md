@@ -6,3 +6,4 @@
 - 2024-01-16 19:30: feat(alerts): push notification triggers on budget threshold breach
 - 2024-01-16 21:34: refactor(api): edge route handler for rapid ledger calculation
 - 2024-01-16 22:25: perf(ledger): batch transaction insert latency optimization
+- 2024-01-18 10:46: fix(db): optimize monthly budget aggregation query
