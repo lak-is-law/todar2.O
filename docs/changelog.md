@@ -12,3 +12,4 @@
 - 2024-01-18 11:41: feat(alerts): push notification triggers on budget threshold breach
 - 2024-01-18 12:12: feat(recurring): automated subscription cadence detection algorithm
 - 2024-01-18 12:31: fix(db): optimize monthly budget aggregation query
+- 2024-01-18 13:12: refactor(schema): add foreign key indexes on ledger transactions
