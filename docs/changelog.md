@@ -21,3 +21,4 @@
 - 2024-01-18 17:53: feat(export): CSV ledger export with localized currency format
 - 2024-01-18 18:29: docs(api): document transaction pagination and filter schema
 - 2024-01-18 19:06: feat(recurring): automated subscription cadence detection algorithm
+- 2024-01-18 20:45: refactor(api): edge route handler for rapid ledger calculation
