@@ -29,3 +29,4 @@
 - 2024-01-28 13:34: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-01-28 16:03: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-01-28 18:48: refactor(auth): token refresh rotation and session store
+- 2024-01-28 20:30: perf(cache): Redis caching layer for monthly expense summaries
