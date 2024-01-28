@@ -24,3 +24,4 @@
 - 2024-01-18 20:45: refactor(api): edge route handler for rapid ledger calculation
 - 2024-01-18 21:16: feat(alerts): push notification triggers on budget threshold breach
 - 2024-01-18 22:11: refactor(schema): add foreign key indexes on ledger transactions
+- 2024-01-28 10:12: feat(alerts): push notification triggers on budget threshold breach
