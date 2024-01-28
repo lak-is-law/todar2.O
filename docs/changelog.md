@@ -27,3 +27,4 @@
 - 2024-01-28 10:12: feat(alerts): push notification triggers on budget threshold breach
 - 2024-01-28 11:11: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-01-28 13:34: refactor(schema): add foreign key indexes on ledger transactions
+- 2024-01-28 16:03: refactor(schema): add foreign key indexes on ledger transactions
