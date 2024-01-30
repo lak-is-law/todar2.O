@@ -31,3 +31,4 @@
 - 2024-01-28 18:48: refactor(auth): token refresh rotation and session store
 - 2024-01-28 20:30: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-01-30 10:56: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-01-30 11:21: refactor(api): edge route handler for rapid ledger calculation
