@@ -36,3 +36,4 @@
 - 2024-01-30 14:54: feat(analytics): spending vector category breakdowns
 - 2024-01-30 15:01: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-01-30 16:10: refactor(api): edge route handler for rapid ledger calculation
+- 2024-01-30 17:43: docs(api): document transaction pagination and filter schema
