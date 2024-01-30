@@ -38,3 +38,4 @@
 - 2024-01-30 16:10: refactor(api): edge route handler for rapid ledger calculation
 - 2024-01-30 17:43: docs(api): document transaction pagination and filter schema
 - 2024-01-30 18:34: fix(db): optimize monthly budget aggregation query
+- 2024-01-30 19:39: perf(ledger): batch transaction insert latency optimization
