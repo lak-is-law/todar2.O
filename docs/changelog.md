@@ -42,3 +42,4 @@
 - 2024-01-30 20:35: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-01-30 21:46: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-01-30 22:18: perf(ledger): batch transaction insert latency optimization
+- 2024-02-06 12:49: perf(cache): Redis caching layer for monthly expense summaries
