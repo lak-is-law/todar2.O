@@ -44,3 +44,4 @@
 - 2024-01-30 22:18: perf(ledger): batch transaction insert latency optimization
 - 2024-02-06 12:49: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-02-06 13:14: feat(analytics): spending vector category breakdowns
+- 2024-02-06 15:11: feat(forecasting): exponential smoothing pipeline for monthly burn
