@@ -55,3 +55,4 @@
 - 2024-03-06 11:39: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-03-06 14:07: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-03-06 16:58: fix(db): optimize monthly budget aggregation query
+- 2024-03-06 21:35: refactor(auth): token refresh rotation and session store
