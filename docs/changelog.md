@@ -53,3 +53,4 @@
 - 2024-02-18 19:31: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-02-18 20:22: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-03-06 11:39: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-03-06 14:07: feat(ui): responsive budget breakdown charts with Tailwind
