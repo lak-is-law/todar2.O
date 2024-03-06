@@ -52,3 +52,4 @@
 - 2024-02-18 18:40: feat(analytics): spending vector category breakdowns
 - 2024-02-18 19:31: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-02-18 20:22: refactor(schema): add foreign key indexes on ledger transactions
+- 2024-03-06 11:39: perf(cache): Redis caching layer for monthly expense summaries
