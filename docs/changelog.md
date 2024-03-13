@@ -57,3 +57,4 @@
 - 2024-03-06 16:58: fix(db): optimize monthly budget aggregation query
 - 2024-03-06 21:35: refactor(auth): token refresh rotation and session store
 - 2024-03-13 12:32: feat(export): CSV ledger export with localized currency format
+- 2024-03-13 15:20: feat(alerts): push notification triggers on budget threshold breach
