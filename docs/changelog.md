@@ -51,3 +51,4 @@
 - 2024-03-13 15:20: feat(alerts): push notification triggers on budget threshold breach
 - 2024-03-13 16:46: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-03-14 12:12: feat(ui): responsive budget breakdown charts with Tailwind
+- 2024-03-14 15:14: feat(recurring): automated subscription cadence detection algorithm
