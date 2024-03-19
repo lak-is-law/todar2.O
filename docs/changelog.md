@@ -57,3 +57,4 @@
 - 2024-03-19 11:09: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-03-19 14:17: feat(export): CSV ledger export with localized currency format
 - 2024-03-19 15:09: docs(api): document transaction pagination and filter schema
+- 2024-03-19 17:07: perf(ledger): batch transaction insert latency optimization
