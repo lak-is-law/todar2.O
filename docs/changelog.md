@@ -54,3 +54,4 @@
 - 2024-03-14 15:14: feat(recurring): automated subscription cadence detection algorithm
 - 2024-03-14 16:58: docs(api): document transaction pagination and filter schema
 - 2024-03-14 17:50: test(forecasting): unit tests for predictive burn-rate bounds
+- 2024-03-19 11:09: perf(cache): Redis caching layer for monthly expense summaries
