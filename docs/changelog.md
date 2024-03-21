@@ -52,3 +52,4 @@
 - 2024-03-19 20:36: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-03-21 10:32: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-03-21 13:40: fix(db): optimize monthly budget aggregation query
+- 2024-03-21 15:35: refactor(auth): token refresh rotation and session store
