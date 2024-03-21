@@ -50,3 +50,4 @@
 - 2024-03-19 15:09: docs(api): document transaction pagination and filter schema
 - 2024-03-19 17:07: perf(ledger): batch transaction insert latency optimization
 - 2024-03-19 20:36: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-03-21 10:32: fix(categorization): rule-based fallback when ML tag confidence is low
