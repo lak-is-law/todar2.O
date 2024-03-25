@@ -57,3 +57,4 @@
 - 2024-03-22 11:09: refactor(auth): token refresh rotation and session store
 - 2024-03-25 13:32: feat(recurring): automated subscription cadence detection algorithm
 - 2024-03-25 14:25: refactor(auth): token refresh rotation and session store
+- 2024-03-25 15:37: refactor(schema): add foreign key indexes on ledger transactions
