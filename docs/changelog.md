@@ -55,3 +55,4 @@
 - 2024-03-21 15:35: refactor(auth): token refresh rotation and session store
 - 2024-03-21 17:34: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-03-22 11:09: refactor(auth): token refresh rotation and session store
+- 2024-03-25 13:32: feat(recurring): automated subscription cadence detection algorithm
