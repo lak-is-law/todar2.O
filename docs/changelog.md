@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-01-18 17:53: feat(export): CSV ledger export with localized currency format
-- 2024-01-18 18:29: docs(api): document transaction pagination and filter schema
-- 2024-01-18 19:06: feat(recurring): automated subscription cadence detection algorithm
-- 2024-01-18 20:45: refactor(api): edge route handler for rapid ledger calculation
-- 2024-01-18 21:16: feat(alerts): push notification triggers on budget threshold breach
-- 2024-01-18 22:11: refactor(schema): add foreign key indexes on ledger transactions
-- 2024-01-28 10:12: feat(alerts): push notification triggers on budget threshold breach
-- 2024-01-28 11:11: perf(cache): Redis caching layer for monthly expense summaries
-- 2024-01-28 13:34: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-01-28 16:03: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-01-28 18:48: refactor(auth): token refresh rotation and session store
 - 2024-01-28 20:30: perf(cache): Redis caching layer for monthly expense summaries
@@ -58,3 +49,4 @@
 - 2024-03-25 13:32: feat(recurring): automated subscription cadence detection algorithm
 - 2024-03-25 14:25: refactor(auth): token refresh rotation and session store
 - 2024-03-25 15:37: refactor(schema): add foreign key indexes on ledger transactions
+- 2024-03-29 11:49: perf(ledger): batch transaction insert latency optimization
