@@ -53,3 +53,4 @@
 - 2024-03-29 16:30: fix(db): optimize monthly budget aggregation query
 - 2024-03-29 18:54: refactor(api): edge route handler for rapid ledger calculation
 - 2024-03-29 19:38: feat(ui): responsive budget breakdown charts with Tailwind
+- 2024-03-29 20:20: feat(export): CSV ledger export with localized currency format
