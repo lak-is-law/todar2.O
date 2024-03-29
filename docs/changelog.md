@@ -50,3 +50,4 @@
 - 2024-03-25 14:25: refactor(auth): token refresh rotation and session store
 - 2024-03-25 15:37: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-03-29 11:49: perf(ledger): batch transaction insert latency optimization
+- 2024-03-29 16:30: fix(db): optimize monthly budget aggregation query
