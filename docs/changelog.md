@@ -52,3 +52,4 @@
 - 2024-04-20 13:53: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-04-20 14:08: docs(api): document transaction pagination and filter schema
 - 2024-04-20 15:09: refactor(auth): token refresh rotation and session store
+- 2024-04-20 16:22: test(forecasting): unit tests for predictive burn-rate bounds
