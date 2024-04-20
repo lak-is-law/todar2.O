@@ -54,3 +54,4 @@
 - 2024-04-20 15:09: refactor(auth): token refresh rotation and session store
 - 2024-04-20 16:22: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-04-20 17:38: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2024-04-20 18:03: feat(recurring): automated subscription cadence detection algorithm
