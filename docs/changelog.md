@@ -55,3 +55,4 @@
 - 2024-03-29 19:38: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-03-29 20:20: feat(export): CSV ledger export with localized currency format
 - 2024-04-11 20:39: feat(alerts): push notification triggers on budget threshold breach
+- 2024-04-20 10:47: test(forecasting): unit tests for predictive burn-rate bounds
