@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-01-28 16:03: refactor(schema): add foreign key indexes on ledger transactions
-- 2024-01-28 18:48: refactor(auth): token refresh rotation and session store
-- 2024-01-28 20:30: perf(cache): Redis caching layer for monthly expense summaries
-- 2024-01-30 10:56: perf(cache): Redis caching layer for monthly expense summaries
-- 2024-01-30 11:21: refactor(api): edge route handler for rapid ledger calculation
-- 2024-01-30 12:50: refactor(schema): add foreign key indexes on ledger transactions
-- 2024-01-30 14:54: feat(analytics): spending vector category breakdowns
-- 2024-01-30 15:01: refactor(schema): add foreign key indexes on ledger transactions
-- 2024-01-30 16:10: refactor(api): edge route handler for rapid ledger calculation
 - 2024-01-30 17:43: docs(api): document transaction pagination and filter schema
 - 2024-01-30 18:34: fix(db): optimize monthly budget aggregation query
 - 2024-01-30 19:39: perf(ledger): batch transaction insert latency optimization
@@ -58,3 +49,4 @@
 - 2024-04-20 10:47: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-04-20 11:00: refactor(api): edge route handler for rapid ledger calculation
 - 2024-04-20 12:29: perf(ledger): batch transaction insert latency optimization
+- 2024-04-20 13:53: feat(ui): responsive budget breakdown charts with Tailwind
