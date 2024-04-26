@@ -52,3 +52,4 @@
 - 2024-04-20 22:22: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-04-26 10:38: refactor(api): edge route handler for rapid ledger calculation
 - 2024-04-26 15:10: fix(db): optimize monthly budget aggregation query
+- 2024-04-26 19:36: docs(api): document transaction pagination and filter schema
