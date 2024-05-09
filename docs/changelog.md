@@ -50,3 +50,4 @@
 - 2024-05-09 14:29: fix(db): optimize monthly budget aggregation query
 - 2024-05-09 18:15: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-05-09 19:48: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2024-05-09 20:32: perf(cache): Redis caching layer for monthly expense summaries
