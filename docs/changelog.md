@@ -57,3 +57,4 @@
 - 2024-05-09 10:01: feat(alerts): push notification triggers on budget threshold breach
 - 2024-05-09 12:47: feat(recurring): automated subscription cadence detection algorithm
 - 2024-05-09 14:29: fix(db): optimize monthly budget aggregation query
+- 2024-05-09 18:15: feat(ui): responsive budget breakdown charts with Tailwind
