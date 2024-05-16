@@ -52,3 +52,4 @@
 - 2024-05-09 19:48: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-05-09 20:32: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-05-16 10:24: feat(alerts): push notification triggers on budget threshold breach
+- 2024-05-16 13:58: refactor(schema): add foreign key indexes on ledger transactions
