@@ -54,3 +54,4 @@
 - 2024-05-16 10:24: feat(alerts): push notification triggers on budget threshold breach
 - 2024-05-16 13:58: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-05-16 16:51: refactor(api): edge route handler for rapid ledger calculation
+- 2024-05-16 18:37: feat(export): CSV ledger export with localized currency format
