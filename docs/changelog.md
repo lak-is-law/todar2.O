@@ -52,3 +52,4 @@
 - 2024-05-18 12:26: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-05-18 13:40: perf(ledger): batch transaction insert latency optimization
 - 2024-05-18 14:45: refactor(api): edge route handler for rapid ledger calculation
+- 2024-05-18 15:15: fix(db): optimize monthly budget aggregation query
