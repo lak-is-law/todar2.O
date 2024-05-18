@@ -53,3 +53,4 @@
 - 2024-05-18 13:40: perf(ledger): batch transaction insert latency optimization
 - 2024-05-18 14:45: refactor(api): edge route handler for rapid ledger calculation
 - 2024-05-18 15:15: fix(db): optimize monthly budget aggregation query
+- 2024-05-18 16:22: feat(forecasting): exponential smoothing pipeline for monthly burn
