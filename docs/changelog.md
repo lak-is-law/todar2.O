@@ -50,3 +50,4 @@
 - 2024-05-18 10:28: feat(export): CSV ledger export with localized currency format
 - 2024-05-18 11:47: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-05-18 12:26: test(forecasting): unit tests for predictive burn-rate bounds
+- 2024-05-18 13:40: perf(ledger): batch transaction insert latency optimization
