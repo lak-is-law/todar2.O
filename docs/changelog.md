@@ -56,3 +56,4 @@
 - 2024-05-18 16:22: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-05-18 17:54: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-05-18 18:38: perf(ledger): batch transaction insert latency optimization
+- 2024-05-18 21:16: docs(api): document transaction pagination and filter schema
