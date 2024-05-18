@@ -56,3 +56,4 @@
 - 2024-05-16 16:51: refactor(api): edge route handler for rapid ledger calculation
 - 2024-05-16 18:37: feat(export): CSV ledger export with localized currency format
 - 2024-05-16 20:55: refactor(schema): add foreign key indexes on ledger transactions
+- 2024-05-18 10:28: feat(export): CSV ledger export with localized currency format
