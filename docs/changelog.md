@@ -55,3 +55,4 @@
 - 2024-05-31 15:52: fix(db): optimize monthly budget aggregation query
 - 2024-05-31 17:44: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-05-31 19:35: docs(api): document transaction pagination and filter schema
+- 2024-05-31 22:50: feat(analytics): spending vector category breakdowns
