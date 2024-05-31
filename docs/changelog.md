@@ -50,3 +50,4 @@
 - 2024-05-18 21:16: docs(api): document transaction pagination and filter schema
 - 2024-05-18 22:27: fix(db): optimize monthly budget aggregation query
 - 2024-05-31 10:14: feat(export): CSV ledger export with localized currency format
+- 2024-05-31 11:16: perf(ledger): batch transaction insert latency optimization
