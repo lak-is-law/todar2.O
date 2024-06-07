@@ -56,3 +56,4 @@
 - 2024-06-07 14:40: feat(export): CSV ledger export with localized currency format
 - 2024-06-07 15:06: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-06-07 16:33: test(forecasting): unit tests for predictive burn-rate bounds
+- 2024-06-07 17:43: refactor(api): edge route handler for rapid ledger calculation
