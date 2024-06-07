@@ -50,3 +50,4 @@
 - 2024-06-07 17:43: refactor(api): edge route handler for rapid ledger calculation
 - 2024-06-07 18:47: refactor(auth): token refresh rotation and session store
 - 2024-06-07 19:02: refactor(schema): add foreign key indexes on ledger transactions
+- 2024-06-07 20:43: feat(recurring): automated subscription cadence detection algorithm
