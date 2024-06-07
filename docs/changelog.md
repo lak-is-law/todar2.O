@@ -53,3 +53,4 @@
 - 2024-06-07 11:41: feat(alerts): push notification triggers on budget threshold breach
 - 2024-06-07 12:34: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-06-07 13:20: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2024-06-07 14:40: feat(export): CSV ledger export with localized currency format
