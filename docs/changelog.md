@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-03-22 11:09: refactor(auth): token refresh rotation and session store
-- 2024-03-25 13:32: feat(recurring): automated subscription cadence detection algorithm
-- 2024-03-25 14:25: refactor(auth): token refresh rotation and session store
-- 2024-03-25 15:37: refactor(schema): add foreign key indexes on ledger transactions
-- 2024-03-29 11:49: perf(ledger): batch transaction insert latency optimization
-- 2024-03-29 16:30: fix(db): optimize monthly budget aggregation query
-- 2024-03-29 18:54: refactor(api): edge route handler for rapid ledger calculation
-- 2024-03-29 19:38: feat(ui): responsive budget breakdown charts with Tailwind
-- 2024-03-29 20:20: feat(export): CSV ledger export with localized currency format
 - 2024-04-11 20:39: feat(alerts): push notification triggers on budget threshold breach
 - 2024-04-20 10:47: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-04-20 11:00: refactor(api): edge route handler for rapid ledger calculation
@@ -58,3 +49,4 @@
 - 2024-05-31 22:50: feat(analytics): spending vector category breakdowns
 - 2024-06-07 10:03: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-06-07 10:05: refactor(auth): token refresh rotation and session store
+- 2024-06-07 11:21: feat(export): CSV ledger export with localized currency format
