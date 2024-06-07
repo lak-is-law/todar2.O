@@ -50,3 +50,4 @@
 - 2024-06-07 10:03: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-06-07 10:05: refactor(auth): token refresh rotation and session store
 - 2024-06-07 11:21: feat(export): CSV ledger export with localized currency format
+- 2024-06-07 11:41: feat(alerts): push notification triggers on budget threshold breach
