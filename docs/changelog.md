@@ -57,3 +57,4 @@
 - 2024-05-31 19:35: docs(api): document transaction pagination and filter schema
 - 2024-05-31 22:50: feat(analytics): spending vector category breakdowns
 - 2024-06-07 10:03: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-06-07 10:05: refactor(auth): token refresh rotation and session store
