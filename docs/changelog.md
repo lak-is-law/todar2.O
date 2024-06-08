@@ -50,3 +50,4 @@
 - 2024-06-08 16:50: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-06-08 18:29: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-06-08 19:03: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2024-06-08 21:02: feat(analytics): spending vector category breakdowns
