@@ -53,3 +53,4 @@
 - 2024-06-07 20:43: feat(recurring): automated subscription cadence detection algorithm
 - 2024-06-07 21:31: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-06-07 22:31: test(forecasting): unit tests for predictive burn-rate bounds
+- 2024-06-08 13:25: refactor(schema): add foreign key indexes on ledger transactions
