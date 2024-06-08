@@ -57,3 +57,4 @@
 - 2024-06-08 14:48: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-06-08 15:41: docs(api): document transaction pagination and filter schema
 - 2024-06-08 16:50: test(forecasting): unit tests for predictive burn-rate bounds
+- 2024-06-08 18:29: perf(cache): Redis caching layer for monthly expense summaries
