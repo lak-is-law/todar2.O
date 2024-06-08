@@ -55,3 +55,4 @@
 - 2024-06-07 22:31: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-06-08 13:25: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-06-08 14:48: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-06-08 15:41: docs(api): document transaction pagination and filter schema
