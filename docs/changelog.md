@@ -57,3 +57,4 @@
 - 2024-06-12 13:36: feat(recurring): automated subscription cadence detection algorithm
 - 2024-06-12 14:31: docs(api): document transaction pagination and filter schema
 - 2024-06-12 15:20: refactor(auth): token refresh rotation and session store
+- 2024-06-12 16:46: docs(api): document transaction pagination and filter schema
