@@ -54,3 +54,4 @@
 - 2024-06-12 10:24: feat(export): CSV ledger export with localized currency format
 - 2024-06-12 11:55: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-06-12 12:34: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2024-06-12 13:36: feat(recurring): automated subscription cadence detection algorithm
