@@ -52,3 +52,4 @@
 - 2024-06-12 17:47: docs(api): document transaction pagination and filter schema
 - 2024-06-12 18:21: fix(db): optimize monthly budget aggregation query
 - 2024-06-12 19:54: feat(recurring): automated subscription cadence detection algorithm
+- 2024-06-12 20:17: fix(db): optimize monthly budget aggregation query
