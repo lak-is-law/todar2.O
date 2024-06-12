@@ -50,3 +50,4 @@
 - 2024-06-12 15:20: refactor(auth): token refresh rotation and session store
 - 2024-06-12 16:46: docs(api): document transaction pagination and filter schema
 - 2024-06-12 17:47: docs(api): document transaction pagination and filter schema
+- 2024-06-12 18:21: fix(db): optimize monthly budget aggregation query
