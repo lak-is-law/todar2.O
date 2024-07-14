@@ -55,3 +55,4 @@
 - 2024-06-12 20:17: fix(db): optimize monthly budget aggregation query
 - 2024-06-12 21:29: refactor(auth): token refresh rotation and session store
 - 2024-06-12 22:46: refactor(auth): token refresh rotation and session store
+- 2024-07-14 11:12: feat(forecasting): exponential smoothing pipeline for monthly burn
