@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-05-16 18:37: feat(export): CSV ledger export with localized currency format
-- 2024-05-16 20:55: refactor(schema): add foreign key indexes on ledger transactions
-- 2024-05-18 10:28: feat(export): CSV ledger export with localized currency format
-- 2024-05-18 11:47: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2024-05-18 12:26: test(forecasting): unit tests for predictive burn-rate bounds
-- 2024-05-18 13:40: perf(ledger): batch transaction insert latency optimization
-- 2024-05-18 14:45: refactor(api): edge route handler for rapid ledger calculation
-- 2024-05-18 15:15: fix(db): optimize monthly budget aggregation query
-- 2024-05-18 16:22: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-05-18 17:54: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-05-18 18:38: perf(ledger): batch transaction insert latency optimization
 - 2024-05-18 21:16: docs(api): document transaction pagination and filter schema
@@ -58,3 +49,4 @@
 - 2024-07-14 11:12: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-07-14 13:53: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-07-14 18:43: fix(db): optimize monthly budget aggregation query
+- 2024-07-14 19:32: fix(db): optimize monthly budget aggregation query
