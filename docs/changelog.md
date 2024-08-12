@@ -51,3 +51,4 @@
 - 2024-07-14 18:43: fix(db): optimize monthly budget aggregation query
 - 2024-07-14 19:32: fix(db): optimize monthly budget aggregation query
 - 2024-07-14 22:23: refactor(schema): add foreign key indexes on ledger transactions
+- 2024-08-12 11:42: feat(alerts): push notification triggers on budget threshold breach
