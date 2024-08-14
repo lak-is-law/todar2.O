@@ -54,3 +54,4 @@
 - 2024-08-12 11:42: feat(alerts): push notification triggers on budget threshold breach
 - 2024-08-12 15:42: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-08-14 12:30: feat(ui): responsive budget breakdown charts with Tailwind
+- 2024-08-14 13:44: refactor(auth): token refresh rotation and session store
