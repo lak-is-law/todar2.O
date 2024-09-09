@@ -53,3 +53,4 @@
 - 2024-09-06 10:25: feat(export): CSV ledger export with localized currency format
 - 2024-09-06 12:16: docs(api): document transaction pagination and filter schema
 - 2024-09-06 21:02: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2024-09-09 11:00: feat(export): CSV ledger export with localized currency format
