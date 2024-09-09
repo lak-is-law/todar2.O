@@ -57,3 +57,4 @@
 - 2024-09-09 12:54: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-09-09 13:45: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-09-09 14:44: fix(db): optimize monthly budget aggregation query
+- 2024-09-09 18:58: feat(analytics): spending vector category breakdowns
