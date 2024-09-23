@@ -51,3 +51,4 @@
 - 2024-09-09 18:58: feat(analytics): spending vector category breakdowns
 - 2024-09-09 20:09: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-09-09 22:23: refactor(auth): token refresh rotation and session store
+- 2024-09-23 10:02: feat(recurring): automated subscription cadence detection algorithm
