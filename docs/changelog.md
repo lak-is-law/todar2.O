@@ -56,3 +56,4 @@
 - 2024-09-23 11:32: feat(export): CSV ledger export with localized currency format
 - 2024-09-23 11:44: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-09-23 12:10: fix(db): optimize monthly budget aggregation query
+- 2024-09-23 12:34: fix(categorization): rule-based fallback when ML tag confidence is low
