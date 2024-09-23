@@ -56,3 +56,4 @@
 - 2024-09-23 17:41: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-09-23 18:25: feat(recurring): automated subscription cadence detection algorithm
 - 2024-09-23 19:50: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-09-23 20:51: test(forecasting): unit tests for predictive burn-rate bounds
