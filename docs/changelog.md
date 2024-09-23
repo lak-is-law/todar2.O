@@ -50,3 +50,4 @@
 - 2024-09-23 12:34: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-09-23 13:17: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-09-23 13:49: refactor(api): edge route handler for rapid ledger calculation
+- 2024-09-23 14:08: feat(export): CSV ledger export with localized currency format
