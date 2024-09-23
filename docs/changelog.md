@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-06-08 14:48: perf(cache): Redis caching layer for monthly expense summaries
-- 2024-06-08 15:41: docs(api): document transaction pagination and filter schema
-- 2024-06-08 16:50: test(forecasting): unit tests for predictive burn-rate bounds
-- 2024-06-08 18:29: perf(cache): Redis caching layer for monthly expense summaries
-- 2024-06-08 19:03: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2024-06-08 21:02: feat(analytics): spending vector category breakdowns
-- 2024-06-12 10:24: feat(export): CSV ledger export with localized currency format
-- 2024-06-12 11:55: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2024-06-12 12:34: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-06-12 13:36: feat(recurring): automated subscription cadence detection algorithm
 - 2024-06-12 14:31: docs(api): document transaction pagination and filter schema
 - 2024-06-12 15:20: refactor(auth): token refresh rotation and session store
@@ -58,3 +49,4 @@
 - 2024-09-23 19:50: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-09-23 20:51: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-09-23 21:01: refactor(api): edge route handler for rapid ledger calculation
+- 2024-09-23 22:43: feat(recurring): automated subscription cadence detection algorithm
