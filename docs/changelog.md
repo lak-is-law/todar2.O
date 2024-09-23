@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-06-07 15:06: feat(ui): responsive budget breakdown charts with Tailwind
-- 2024-06-07 16:33: test(forecasting): unit tests for predictive burn-rate bounds
-- 2024-06-07 17:43: refactor(api): edge route handler for rapid ledger calculation
-- 2024-06-07 18:47: refactor(auth): token refresh rotation and session store
-- 2024-06-07 19:02: refactor(schema): add foreign key indexes on ledger transactions
-- 2024-06-07 20:43: feat(recurring): automated subscription cadence detection algorithm
-- 2024-06-07 21:31: perf(cache): Redis caching layer for monthly expense summaries
-- 2024-06-07 22:31: test(forecasting): unit tests for predictive burn-rate bounds
-- 2024-06-08 13:25: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-06-08 14:48: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-06-08 15:41: docs(api): document transaction pagination and filter schema
 - 2024-06-08 16:50: test(forecasting): unit tests for predictive burn-rate bounds
@@ -58,3 +49,4 @@
 - 2024-09-23 12:10: fix(db): optimize monthly budget aggregation query
 - 2024-09-23 12:34: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-09-23 13:17: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-09-23 13:49: refactor(api): edge route handler for rapid ledger calculation
