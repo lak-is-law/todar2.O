@@ -54,3 +54,4 @@
 - 2024-09-23 15:06: feat(analytics): spending vector category breakdowns
 - 2024-09-23 16:57: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-09-23 17:41: feat(ui): responsive budget breakdown charts with Tailwind
+- 2024-09-23 18:25: feat(recurring): automated subscription cadence detection algorithm
