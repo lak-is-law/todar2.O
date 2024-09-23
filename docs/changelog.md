@@ -53,3 +53,4 @@
 - 2024-09-09 22:23: refactor(auth): token refresh rotation and session store
 - 2024-09-23 10:02: feat(recurring): automated subscription cadence detection algorithm
 - 2024-09-23 10:05: feat(alerts): push notification triggers on budget threshold breach
+- 2024-09-23 11:32: feat(export): CSV ledger export with localized currency format
