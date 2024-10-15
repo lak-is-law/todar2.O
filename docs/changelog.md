@@ -50,3 +50,4 @@
 - 2024-09-23 20:51: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-09-23 21:01: refactor(api): edge route handler for rapid ledger calculation
 - 2024-09-23 22:43: feat(recurring): automated subscription cadence detection algorithm
+- 2024-10-15 10:44: feat(alerts): push notification triggers on budget threshold breach
