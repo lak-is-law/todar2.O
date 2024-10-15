@@ -56,3 +56,4 @@
 - 2024-10-15 16:57: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-10-15 18:52: feat(recurring): automated subscription cadence detection algorithm
 - 2024-10-15 19:15: feat(export): CSV ledger export with localized currency format
+- 2024-10-15 22:02: docs(api): document transaction pagination and filter schema
