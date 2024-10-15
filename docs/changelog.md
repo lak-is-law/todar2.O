@@ -54,3 +54,4 @@
 - 2024-10-15 13:02: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-10-15 15:03: docs(api): document transaction pagination and filter schema
 - 2024-10-15 16:57: test(forecasting): unit tests for predictive burn-rate bounds
+- 2024-10-15 18:52: feat(recurring): automated subscription cadence detection algorithm
