@@ -53,3 +53,4 @@
 - 2024-10-15 10:44: feat(alerts): push notification triggers on budget threshold breach
 - 2024-10-15 13:02: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-10-15 15:03: docs(api): document transaction pagination and filter schema
+- 2024-10-15 16:57: test(forecasting): unit tests for predictive burn-rate bounds
