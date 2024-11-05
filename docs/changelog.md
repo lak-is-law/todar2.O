@@ -50,3 +50,4 @@
 - 2024-10-15 22:02: docs(api): document transaction pagination and filter schema
 - 2024-11-05 11:12: perf(cache): Redis caching layer for monthly expense summaries
 - 2024-11-05 14:35: fix(db): optimize monthly budget aggregation query
+- 2024-11-05 19:17: feat(recurring): automated subscription cadence detection algorithm
