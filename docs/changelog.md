@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-06-12 13:36: feat(recurring): automated subscription cadence detection algorithm
-- 2024-06-12 14:31: docs(api): document transaction pagination and filter schema
-- 2024-06-12 15:20: refactor(auth): token refresh rotation and session store
-- 2024-06-12 16:46: docs(api): document transaction pagination and filter schema
-- 2024-06-12 17:47: docs(api): document transaction pagination and filter schema
-- 2024-06-12 18:21: fix(db): optimize monthly budget aggregation query
-- 2024-06-12 19:54: feat(recurring): automated subscription cadence detection algorithm
-- 2024-06-12 20:17: fix(db): optimize monthly budget aggregation query
-- 2024-06-12 21:29: refactor(auth): token refresh rotation and session store
 - 2024-06-12 22:46: refactor(auth): token refresh rotation and session store
 - 2024-07-14 11:12: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-07-14 13:53: feat(ui): responsive budget breakdown charts with Tailwind
@@ -58,3 +49,4 @@
 - 2024-10-15 19:15: feat(export): CSV ledger export with localized currency format
 - 2024-10-15 22:02: docs(api): document transaction pagination and filter schema
 - 2024-11-05 11:12: perf(cache): Redis caching layer for monthly expense summaries
+- 2024-11-05 14:35: fix(db): optimize monthly budget aggregation query
