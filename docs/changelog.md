@@ -53,3 +53,4 @@
 - 2024-11-05 19:17: feat(recurring): automated subscription cadence detection algorithm
 - 2024-11-10 15:48: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-11-10 17:58: test(forecasting): unit tests for predictive burn-rate bounds
+- 2024-11-10 19:07: refactor(schema): add foreign key indexes on ledger transactions
