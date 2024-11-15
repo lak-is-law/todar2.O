@@ -55,3 +55,4 @@
 - 2024-11-10 17:58: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-11-10 19:07: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-11-10 21:44: refactor(auth): token refresh rotation and session store
+- 2024-11-15 20:44: perf(ledger): batch transaction insert latency optimization
