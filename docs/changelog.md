@@ -56,3 +56,4 @@
 - 2024-11-10 19:07: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-11-10 21:44: refactor(auth): token refresh rotation and session store
 - 2024-11-15 20:44: perf(ledger): batch transaction insert latency optimization
+- 2024-11-23 10:03: feat(export): CSV ledger export with localized currency format
