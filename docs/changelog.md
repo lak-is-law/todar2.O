@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-08-14 13:44: refactor(auth): token refresh rotation and session store
-- 2024-08-14 15:18: feat(analytics): spending vector category breakdowns
-- 2024-08-14 16:27: docs(api): document transaction pagination and filter schema
-- 2024-08-14 17:02: test(forecasting): unit tests for predictive burn-rate bounds
-- 2024-08-14 21:57: perf(ledger): batch transaction insert latency optimization
-- 2024-09-06 10:25: feat(export): CSV ledger export with localized currency format
-- 2024-09-06 12:16: docs(api): document transaction pagination and filter schema
-- 2024-09-06 21:02: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2024-09-09 11:00: feat(export): CSV ledger export with localized currency format
 - 2024-09-09 12:54: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-09-09 13:45: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-09-09 14:44: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2024-11-23 14:31: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-11-23 15:56: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2024-11-23 16:06: feat(analytics): spending vector category breakdowns
+- 2024-11-23 17:57: fix(db): optimize monthly budget aggregation query
