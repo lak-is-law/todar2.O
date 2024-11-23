@@ -52,3 +52,4 @@
 - 2024-11-23 17:57: fix(db): optimize monthly budget aggregation query
 - 2024-11-23 18:48: feat(analytics): spending vector category breakdowns
 - 2024-11-23 19:08: feat(recurring): automated subscription cadence detection algorithm
+- 2024-11-23 20:20: fix(categorization): rule-based fallback when ML tag confidence is low
