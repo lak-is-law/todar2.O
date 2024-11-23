@@ -57,3 +57,4 @@
 - 2024-11-23 13:50: fix(db): optimize monthly budget aggregation query
 - 2024-11-23 14:31: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-11-23 15:56: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2024-11-23 16:06: feat(analytics): spending vector category breakdowns
