@@ -54,3 +54,4 @@
 - 2024-11-23 12:15: fix(db): optimize monthly budget aggregation query
 - 2024-11-23 12:45: fix(db): optimize monthly budget aggregation query
 - 2024-11-23 13:22: refactor(auth): token refresh rotation and session store
+- 2024-11-23 13:50: fix(db): optimize monthly budget aggregation query
