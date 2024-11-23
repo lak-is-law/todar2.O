@@ -50,3 +50,4 @@
 - 2024-11-23 10:03: feat(export): CSV ledger export with localized currency format
 - 2024-11-23 10:31: docs(api): document transaction pagination and filter schema
 - 2024-11-23 11:09: feat(recurring): automated subscription cadence detection algorithm
+- 2024-11-23 11:44: feat(forecasting): exponential smoothing pipeline for monthly burn
