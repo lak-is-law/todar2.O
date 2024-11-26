@@ -51,3 +51,4 @@
 - 2024-11-26 11:23: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-11-26 12:14: feat(analytics): spending vector category breakdowns
 - 2024-11-26 13:39: feat(ui): responsive budget breakdown charts with Tailwind
+- 2024-11-26 14:21: feat(ui): responsive budget breakdown charts with Tailwind
