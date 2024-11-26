@@ -55,3 +55,4 @@
 - 2024-11-26 15:29: refactor(auth): token refresh rotation and session store
 - 2024-11-26 16:37: perf(ledger): batch transaction insert latency optimization
 - 2024-11-26 17:51: feat(export): CSV ledger export with localized currency format
+- 2024-11-26 18:07: feat(recurring): automated subscription cadence detection algorithm
