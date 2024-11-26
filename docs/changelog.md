@@ -57,3 +57,4 @@
 - 2024-11-26 17:51: feat(export): CSV ledger export with localized currency format
 - 2024-11-26 18:07: feat(recurring): automated subscription cadence detection algorithm
 - 2024-11-26 19:13: fix(db): optimize monthly budget aggregation query
+- 2024-11-26 20:21: test(forecasting): unit tests for predictive burn-rate bounds
