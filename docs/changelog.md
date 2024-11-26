@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-09-09 12:54: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2024-09-09 13:45: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2024-09-09 14:44: fix(db): optimize monthly budget aggregation query
-- 2024-09-09 18:58: feat(analytics): spending vector category breakdowns
-- 2024-09-09 20:09: feat(ui): responsive budget breakdown charts with Tailwind
-- 2024-09-09 22:23: refactor(auth): token refresh rotation and session store
-- 2024-09-23 10:02: feat(recurring): automated subscription cadence detection algorithm
-- 2024-09-23 10:05: feat(alerts): push notification triggers on budget threshold breach
-- 2024-09-23 11:32: feat(export): CSV ledger export with localized currency format
 - 2024-09-23 11:44: feat(ui): responsive budget breakdown charts with Tailwind
 - 2024-09-23 12:10: fix(db): optimize monthly budget aggregation query
 - 2024-09-23 12:34: fix(categorization): rule-based fallback when ML tag confidence is low
@@ -58,3 +49,4 @@
 - 2024-11-26 10:46: feat(recurring): automated subscription cadence detection algorithm
 - 2024-11-26 10:59: perf(ledger): batch transaction insert latency optimization
 - 2024-11-26 11:23: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2024-11-26 12:14: feat(analytics): spending vector category breakdowns
