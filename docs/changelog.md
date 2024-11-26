@@ -55,3 +55,4 @@
 - 2024-11-23 20:20: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2024-11-23 21:51: perf(ledger): batch transaction insert latency optimization
 - 2024-11-23 22:36: docs(api): document transaction pagination and filter schema
+- 2024-11-26 10:46: feat(recurring): automated subscription cadence detection algorithm
