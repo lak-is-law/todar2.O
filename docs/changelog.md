@@ -50,3 +50,4 @@
 - 2024-11-26 19:13: fix(db): optimize monthly budget aggregation query
 - 2024-11-26 20:21: test(forecasting): unit tests for predictive burn-rate bounds
 - 2024-11-26 21:17: feat(recurring): automated subscription cadence detection algorithm
+- 2024-11-26 22:04: refactor(auth): token refresh rotation and session store
