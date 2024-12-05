@@ -54,3 +54,4 @@
 - 2024-12-05 12:52: feat(export): CSV ledger export with localized currency format
 - 2024-12-05 13:50: feat(export): CSV ledger export with localized currency format
 - 2024-12-05 14:25: docs(api): document transaction pagination and filter schema
+- 2024-12-05 18:43: docs(api): document transaction pagination and filter schema
