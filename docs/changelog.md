@@ -54,3 +54,4 @@
 - 2024-12-29 11:56: feat(export): CSV ledger export with localized currency format
 - 2024-12-29 13:15: feat(recurring): automated subscription cadence detection algorithm
 - 2024-12-29 18:46: fix(db): optimize monthly budget aggregation query
+- 2025-01-06 10:34: fix(categorization): rule-based fallback when ML tag confidence is low
