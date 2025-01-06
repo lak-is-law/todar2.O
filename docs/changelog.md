@@ -56,3 +56,4 @@
 - 2024-12-29 18:46: fix(db): optimize monthly budget aggregation query
 - 2025-01-06 10:34: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-01-06 14:40: fix(db): optimize monthly budget aggregation query
+- 2025-01-06 16:47: feat(analytics): spending vector category breakdowns
