@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-10-15 18:52: feat(recurring): automated subscription cadence detection algorithm
-- 2024-10-15 19:15: feat(export): CSV ledger export with localized currency format
-- 2024-10-15 22:02: docs(api): document transaction pagination and filter schema
-- 2024-11-05 11:12: perf(cache): Redis caching layer for monthly expense summaries
-- 2024-11-05 14:35: fix(db): optimize monthly budget aggregation query
-- 2024-11-05 19:17: feat(recurring): automated subscription cadence detection algorithm
-- 2024-11-10 15:48: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2024-11-10 17:58: test(forecasting): unit tests for predictive burn-rate bounds
-- 2024-11-10 19:07: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-11-10 21:44: refactor(auth): token refresh rotation and session store
 - 2024-11-15 20:44: perf(ledger): batch transaction insert latency optimization
 - 2024-11-23 10:03: feat(export): CSV ledger export with localized currency format
@@ -58,3 +49,4 @@
 - 2025-01-06 14:40: fix(db): optimize monthly budget aggregation query
 - 2025-01-06 16:47: feat(analytics): spending vector category breakdowns
 - 2025-01-06 20:20: perf(cache): Redis caching layer for monthly expense summaries
+- 2025-01-12 10:52: refactor(schema): add foreign key indexes on ledger transactions
