@@ -51,3 +51,4 @@
 - 2025-01-06 20:20: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-01-12 10:52: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-01-12 20:51: feat(alerts): push notification triggers on budget threshold breach
+- 2025-01-12 21:58: test(forecasting): unit tests for predictive burn-rate bounds
