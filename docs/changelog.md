@@ -56,3 +56,4 @@
 - 2025-01-13 10:39: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-01-13 11:31: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-01-13 11:40: refactor(api): edge route handler for rapid ledger calculation
+- 2025-01-13 12:26: feat(forecasting): exponential smoothing pipeline for monthly burn
