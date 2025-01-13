@@ -57,3 +57,4 @@
 - 2025-01-13 17:05: feat(analytics): spending vector category breakdowns
 - 2025-01-13 18:30: feat(alerts): push notification triggers on budget threshold breach
 - 2025-01-13 19:54: docs(api): document transaction pagination and filter schema
+- 2025-01-13 20:14: perf(cache): Redis caching layer for monthly expense summaries
