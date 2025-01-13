@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-11-10 21:44: refactor(auth): token refresh rotation and session store
-- 2024-11-15 20:44: perf(ledger): batch transaction insert latency optimization
-- 2024-11-23 10:03: feat(export): CSV ledger export with localized currency format
-- 2024-11-23 10:31: docs(api): document transaction pagination and filter schema
-- 2024-11-23 11:09: feat(recurring): automated subscription cadence detection algorithm
-- 2024-11-23 11:44: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2024-11-23 12:15: fix(db): optimize monthly budget aggregation query
-- 2024-11-23 12:45: fix(db): optimize monthly budget aggregation query
-- 2024-11-23 13:22: refactor(auth): token refresh rotation and session store
 - 2024-11-23 13:50: fix(db): optimize monthly budget aggregation query
 - 2024-11-23 14:31: refactor(schema): add foreign key indexes on ledger transactions
 - 2024-11-23 15:56: feat(forecasting): exponential smoothing pipeline for monthly burn
@@ -58,3 +49,4 @@
 - 2025-01-13 11:40: refactor(api): edge route handler for rapid ledger calculation
 - 2025-01-13 12:26: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-01-13 12:39: refactor(auth): token refresh rotation and session store
+- 2025-01-13 13:15: docs(api): document transaction pagination and filter schema
