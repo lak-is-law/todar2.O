@@ -50,3 +50,4 @@
 - 2025-01-13 19:54: docs(api): document transaction pagination and filter schema
 - 2025-01-13 20:14: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-01-13 21:10: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2025-01-13 22:52: feat(recurring): automated subscription cadence detection algorithm
