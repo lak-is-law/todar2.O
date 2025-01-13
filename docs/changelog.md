@@ -56,3 +56,4 @@
 - 2025-01-13 16:11: feat(alerts): push notification triggers on budget threshold breach
 - 2025-01-13 17:05: feat(analytics): spending vector category breakdowns
 - 2025-01-13 18:30: feat(alerts): push notification triggers on budget threshold breach
+- 2025-01-13 19:54: docs(api): document transaction pagination and filter schema
