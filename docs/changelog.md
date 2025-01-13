@@ -54,3 +54,4 @@
 - 2025-01-12 21:58: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-01-13 10:11: feat(alerts): push notification triggers on budget threshold breach
 - 2025-01-13 10:39: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-01-13 11:31: test(forecasting): unit tests for predictive burn-rate bounds
