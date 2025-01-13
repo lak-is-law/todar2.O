@@ -50,3 +50,4 @@
 - 2025-01-13 12:26: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-01-13 12:39: refactor(auth): token refresh rotation and session store
 - 2025-01-13 13:15: docs(api): document transaction pagination and filter schema
+- 2025-01-13 13:17: fix(db): optimize monthly budget aggregation query
