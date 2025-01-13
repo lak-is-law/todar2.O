@@ -55,3 +55,4 @@
 - 2025-01-13 15:47: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-01-13 16:11: feat(alerts): push notification triggers on budget threshold breach
 - 2025-01-13 17:05: feat(analytics): spending vector category breakdowns
+- 2025-01-13 18:30: feat(alerts): push notification triggers on budget threshold breach
