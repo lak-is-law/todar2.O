@@ -52,3 +52,4 @@
 - 2025-01-13 21:10: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-01-13 22:52: feat(recurring): automated subscription cadence detection algorithm
 - 2025-02-01 13:31: feat(export): CSV ledger export with localized currency format
+- 2025-02-01 14:00: refactor(schema): add foreign key indexes on ledger transactions
