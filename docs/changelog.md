@@ -50,3 +50,4 @@
 - 2025-02-01 22:53: perf(ledger): batch transaction insert latency optimization
 - 2025-02-15 11:20: docs(api): document transaction pagination and filter schema
 - 2025-02-15 14:53: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-02-15 16:48: feat(recurring): automated subscription cadence detection algorithm
