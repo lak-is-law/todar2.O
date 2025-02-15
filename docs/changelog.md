@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-11-23 22:36: docs(api): document transaction pagination and filter schema
-- 2024-11-26 10:46: feat(recurring): automated subscription cadence detection algorithm
-- 2024-11-26 10:59: perf(ledger): batch transaction insert latency optimization
-- 2024-11-26 11:23: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2024-11-26 12:14: feat(analytics): spending vector category breakdowns
-- 2024-11-26 13:39: feat(ui): responsive budget breakdown charts with Tailwind
-- 2024-11-26 14:21: feat(ui): responsive budget breakdown charts with Tailwind
-- 2024-11-26 15:29: refactor(auth): token refresh rotation and session store
-- 2024-11-26 16:37: perf(ledger): batch transaction insert latency optimization
 - 2024-11-26 17:51: feat(export): CSV ledger export with localized currency format
 - 2024-11-26 18:07: feat(recurring): automated subscription cadence detection algorithm
 - 2024-11-26 19:13: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2025-02-01 21:13: feat(recurring): automated subscription cadence detection algorithm
 - 2025-02-01 22:53: perf(ledger): batch transaction insert latency optimization
 - 2025-02-15 11:20: docs(api): document transaction pagination and filter schema
+- 2025-02-15 14:53: refactor(schema): add foreign key indexes on ledger transactions
