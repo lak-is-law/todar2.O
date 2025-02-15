@@ -52,3 +52,4 @@
 - 2025-02-15 14:53: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-02-15 16:48: feat(recurring): automated subscription cadence detection algorithm
 - 2025-02-15 19:41: test(forecasting): unit tests for predictive burn-rate bounds
+- 2025-02-15 22:50: refactor(schema): add foreign key indexes on ledger transactions
