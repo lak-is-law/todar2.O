@@ -54,3 +54,4 @@
 - 2025-02-15 19:41: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-02-15 22:50: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-02-17 16:50: feat(analytics): spending vector category breakdowns
+- 2025-02-27 12:12: perf(ledger): batch transaction insert latency optimization
