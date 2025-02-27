@@ -57,3 +57,4 @@
 - 2025-02-27 12:12: perf(ledger): batch transaction insert latency optimization
 - 2025-02-27 13:22: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-02-27 14:55: feat(analytics): spending vector category breakdowns
+- 2025-02-27 15:00: docs(api): document transaction pagination and filter schema
