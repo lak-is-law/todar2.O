@@ -51,3 +51,4 @@
 - 2025-02-27 15:00: docs(api): document transaction pagination and filter schema
 - 2025-02-27 16:29: refactor(auth): token refresh rotation and session store
 - 2025-03-03 12:58: refactor(api): edge route handler for rapid ledger calculation
+- 2025-03-03 14:36: perf(ledger): batch transaction insert latency optimization
