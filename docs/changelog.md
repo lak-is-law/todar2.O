@@ -54,3 +54,4 @@
 - 2025-03-03 14:36: perf(ledger): batch transaction insert latency optimization
 - 2025-03-03 16:11: feat(alerts): push notification triggers on budget threshold breach
 - 2025-03-03 20:59: feat(alerts): push notification triggers on budget threshold breach
+- 2025-03-03 21:55: docs(api): document transaction pagination and filter schema
