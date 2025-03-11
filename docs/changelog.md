@@ -50,3 +50,4 @@
 - 2025-03-11 12:49: refactor(auth): token refresh rotation and session store
 - 2025-03-11 13:03: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-03-11 14:46: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-03-11 16:22: test(forecasting): unit tests for predictive burn-rate bounds
