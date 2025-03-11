@@ -56,3 +56,4 @@
 - 2025-03-03 20:59: feat(alerts): push notification triggers on budget threshold breach
 - 2025-03-03 21:55: docs(api): document transaction pagination and filter schema
 - 2025-03-03 22:30: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-03-11 12:49: refactor(auth): token refresh rotation and session store
