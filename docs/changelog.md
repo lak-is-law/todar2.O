@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-01-06 10:34: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2025-01-06 14:40: fix(db): optimize monthly budget aggregation query
-- 2025-01-06 16:47: feat(analytics): spending vector category breakdowns
-- 2025-01-06 20:20: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-01-12 10:52: refactor(schema): add foreign key indexes on ledger transactions
-- 2025-01-12 20:51: feat(alerts): push notification triggers on budget threshold breach
-- 2025-01-12 21:58: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-01-13 10:11: feat(alerts): push notification triggers on budget threshold breach
-- 2025-01-13 10:39: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-01-13 11:31: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-01-13 11:40: refactor(api): edge route handler for rapid ledger calculation
 - 2025-01-13 12:26: feat(forecasting): exponential smoothing pipeline for monthly burn
@@ -58,3 +49,4 @@
 - 2025-03-18 15:29: feat(export): CSV ledger export with localized currency format
 - 2025-03-18 20:45: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-03-18 21:50: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-03-18 22:52: perf(ledger): batch transaction insert latency optimization
