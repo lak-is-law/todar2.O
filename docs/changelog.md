@@ -53,3 +53,4 @@
 - 2025-03-11 16:22: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-03-11 17:52: docs(api): document transaction pagination and filter schema
 - 2025-03-11 19:56: refactor(auth): token refresh rotation and session store
+- 2025-03-18 10:31: fix(db): optimize monthly budget aggregation query
