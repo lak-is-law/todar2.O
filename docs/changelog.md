@@ -54,3 +54,4 @@
 - 2025-03-11 17:52: docs(api): document transaction pagination and filter schema
 - 2025-03-11 19:56: refactor(auth): token refresh rotation and session store
 - 2025-03-18 10:31: fix(db): optimize monthly budget aggregation query
+- 2025-03-18 11:19: feat(recurring): automated subscription cadence detection algorithm
