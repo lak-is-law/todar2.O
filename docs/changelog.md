@@ -54,3 +54,4 @@
 - 2025-04-07 22:48: feat(analytics): spending vector category breakdowns
 - 2025-04-12 10:34: refactor(api): edge route handler for rapid ledger calculation
 - 2025-04-12 12:32: perf(ledger): batch transaction insert latency optimization
+- 2025-04-12 13:08: fix(db): optimize monthly budget aggregation query
