@@ -57,3 +57,4 @@
 - 2025-04-12 13:08: fix(db): optimize monthly budget aggregation query
 - 2025-04-12 15:23: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-04-12 16:15: feat(recurring): automated subscription cadence detection algorithm
+- 2025-04-12 22:46: refactor(schema): add foreign key indexes on ledger transactions
