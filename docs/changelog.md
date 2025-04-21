@@ -52,3 +52,4 @@
 - 2025-04-21 15:10: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 16:38: docs(api): document transaction pagination and filter schema
 - 2025-04-21 17:17: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-04-21 18:41: perf(ledger): batch transaction insert latency optimization
