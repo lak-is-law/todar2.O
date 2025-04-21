@@ -52,3 +52,4 @@
 - 2025-04-21 10:38: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 10:41: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-04-21 11:16: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-04-21 11:29: test(forecasting): unit tests for predictive burn-rate bounds
