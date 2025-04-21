@@ -56,3 +56,4 @@
 - 2025-04-21 19:59: docs(api): document transaction pagination and filter schema
 - 2025-04-21 20:37: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 21:58: feat(recurring): automated subscription cadence detection algorithm
+- 2025-04-21 22:35: fix(categorization): rule-based fallback when ML tag confidence is low
