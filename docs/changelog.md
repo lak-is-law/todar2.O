@@ -57,3 +57,4 @@
 - 2025-04-21 12:29: refactor(auth): token refresh rotation and session store
 - 2025-04-21 13:18: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-04-21 13:34: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2025-04-21 14:31: feat(alerts): push notification triggers on budget threshold breach
