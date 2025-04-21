@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-01-13 11:31: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-01-13 11:40: refactor(api): edge route handler for rapid ledger calculation
-- 2025-01-13 12:26: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-01-13 12:39: refactor(auth): token refresh rotation and session store
-- 2025-01-13 13:15: docs(api): document transaction pagination and filter schema
-- 2025-01-13 13:17: fix(db): optimize monthly budget aggregation query
-- 2025-01-13 14:39: refactor(auth): token refresh rotation and session store
-- 2025-01-13 15:47: refactor(schema): add foreign key indexes on ledger transactions
-- 2025-01-13 16:11: feat(alerts): push notification triggers on budget threshold breach
 - 2025-01-13 17:05: feat(analytics): spending vector category breakdowns
 - 2025-01-13 18:30: feat(alerts): push notification triggers on budget threshold breach
 - 2025-01-13 19:54: docs(api): document transaction pagination and filter schema
@@ -58,3 +49,4 @@
 - 2025-04-12 15:23: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-04-12 16:15: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-12 22:46: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-04-21 10:38: feat(recurring): automated subscription cadence detection algorithm
