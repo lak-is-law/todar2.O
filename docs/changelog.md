@@ -55,3 +55,4 @@
 - 2025-04-21 11:29: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-04-21 12:06: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-04-21 12:29: refactor(auth): token refresh rotation and session store
+- 2025-04-21 13:18: test(forecasting): unit tests for predictive burn-rate bounds
