@@ -50,3 +50,4 @@
 - 2025-04-12 16:15: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-12 22:46: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-04-21 10:38: feat(recurring): automated subscription cadence detection algorithm
+- 2025-04-21 10:41: refactor(schema): add foreign key indexes on ledger transactions
