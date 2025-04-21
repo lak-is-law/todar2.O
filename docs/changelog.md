@@ -55,3 +55,4 @@
 - 2025-04-21 18:41: perf(ledger): batch transaction insert latency optimization
 - 2025-04-21 19:59: docs(api): document transaction pagination and filter schema
 - 2025-04-21 20:37: feat(recurring): automated subscription cadence detection algorithm
+- 2025-04-21 21:58: feat(recurring): automated subscription cadence detection algorithm
