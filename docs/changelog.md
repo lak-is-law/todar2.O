@@ -57,3 +57,4 @@
 - 2025-04-21 20:37: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 21:58: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 22:35: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2025-04-23 10:21: feat(forecasting): exponential smoothing pipeline for monthly burn
