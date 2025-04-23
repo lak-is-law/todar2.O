@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-02-01 16:54: fix(db): optimize monthly budget aggregation query
-- 2025-02-01 21:13: feat(recurring): automated subscription cadence detection algorithm
-- 2025-02-01 22:53: perf(ledger): batch transaction insert latency optimization
-- 2025-02-15 11:20: docs(api): document transaction pagination and filter schema
-- 2025-02-15 14:53: refactor(schema): add foreign key indexes on ledger transactions
-- 2025-02-15 16:48: feat(recurring): automated subscription cadence detection algorithm
-- 2025-02-15 19:41: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-02-15 22:50: refactor(schema): add foreign key indexes on ledger transactions
-- 2025-02-17 16:50: feat(analytics): spending vector category breakdowns
 - 2025-02-27 12:12: perf(ledger): batch transaction insert latency optimization
 - 2025-02-27 13:22: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-02-27 14:55: feat(analytics): spending vector category breakdowns
@@ -58,3 +49,4 @@
 - 2025-04-21 21:58: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 22:35: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-04-23 10:21: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-04-23 11:32: feat(analytics): spending vector category breakdowns
