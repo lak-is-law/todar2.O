@@ -57,3 +57,4 @@
 - 2025-04-23 17:21: feat(alerts): push notification triggers on budget threshold breach
 - 2025-04-23 18:41: perf(ledger): batch transaction insert latency optimization
 - 2025-04-23 19:04: refactor(api): edge route handler for rapid ledger calculation
+- 2025-04-23 20:42: refactor(auth): token refresh rotation and session store
