@@ -56,3 +56,4 @@
 - 2025-04-23 15:56: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-04-23 17:21: feat(alerts): push notification triggers on budget threshold breach
 - 2025-04-23 18:41: perf(ledger): batch transaction insert latency optimization
+- 2025-04-23 19:04: refactor(api): edge route handler for rapid ledger calculation
