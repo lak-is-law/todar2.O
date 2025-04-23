@@ -50,3 +50,4 @@
 - 2025-04-21 22:35: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-04-23 10:21: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-04-23 11:32: feat(analytics): spending vector category breakdowns
+- 2025-04-23 12:37: refactor(schema): add foreign key indexes on ledger transactions
