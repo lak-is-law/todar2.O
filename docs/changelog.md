@@ -51,3 +51,4 @@
 - 2025-04-23 20:42: refactor(auth): token refresh rotation and session store
 - 2025-05-06 12:41: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-05-06 13:55: test(forecasting): unit tests for predictive burn-rate bounds
+- 2025-05-06 14:36: fix(categorization): rule-based fallback when ML tag confidence is low
