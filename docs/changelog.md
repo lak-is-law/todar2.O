@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-02-27 12:12: perf(ledger): batch transaction insert latency optimization
-- 2025-02-27 13:22: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-02-27 14:55: feat(analytics): spending vector category breakdowns
-- 2025-02-27 15:00: docs(api): document transaction pagination and filter schema
-- 2025-02-27 16:29: refactor(auth): token refresh rotation and session store
-- 2025-03-03 12:58: refactor(api): edge route handler for rapid ledger calculation
-- 2025-03-03 14:36: perf(ledger): batch transaction insert latency optimization
-- 2025-03-03 16:11: feat(alerts): push notification triggers on budget threshold breach
-- 2025-03-03 20:59: feat(alerts): push notification triggers on budget threshold breach
 - 2025-03-03 21:55: docs(api): document transaction pagination and filter schema
 - 2025-03-03 22:30: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-03-11 12:49: refactor(auth): token refresh rotation and session store
@@ -58,3 +49,4 @@
 - 2025-04-23 18:41: perf(ledger): batch transaction insert latency optimization
 - 2025-04-23 19:04: refactor(api): edge route handler for rapid ledger calculation
 - 2025-04-23 20:42: refactor(auth): token refresh rotation and session store
+- 2025-05-06 12:41: feat(ui): responsive budget breakdown charts with Tailwind
