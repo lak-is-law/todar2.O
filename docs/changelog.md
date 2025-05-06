@@ -53,3 +53,4 @@
 - 2025-05-06 13:55: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-05-06 14:36: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-05-06 15:13: docs(api): document transaction pagination and filter schema
+- 2025-05-06 16:43: feat(export): CSV ledger export with localized currency format
