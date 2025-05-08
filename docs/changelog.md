@@ -56,3 +56,4 @@
 - 2025-05-06 16:43: feat(export): CSV ledger export with localized currency format
 - 2025-05-06 19:02: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-05-06 21:13: feat(recurring): automated subscription cadence detection algorithm
+- 2025-05-08 10:43: feat(ui): responsive budget breakdown charts with Tailwind
