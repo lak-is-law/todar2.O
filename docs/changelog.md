@@ -50,3 +50,4 @@
 - 2025-05-08 10:43: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-05-08 15:33: fix(db): optimize monthly budget aggregation query
 - 2025-05-08 18:06: refactor(api): edge route handler for rapid ledger calculation
+- 2025-05-08 20:23: test(forecasting): unit tests for predictive burn-rate bounds
