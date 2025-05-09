@@ -54,3 +54,4 @@
 - 2025-05-08 21:02: feat(analytics): spending vector category breakdowns
 - 2025-05-09 12:40: perf(ledger): batch transaction insert latency optimization
 - 2025-05-09 15:55: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-05-09 17:09: perf(cache): Redis caching layer for monthly expense summaries
