@@ -53,3 +53,4 @@
 - 2025-05-08 20:23: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-05-08 21:02: feat(analytics): spending vector category breakdowns
 - 2025-05-09 12:40: perf(ledger): batch transaction insert latency optimization
+- 2025-05-09 15:55: feat(forecasting): exponential smoothing pipeline for monthly burn
