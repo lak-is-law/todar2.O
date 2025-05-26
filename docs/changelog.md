@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-03-18 11:19: feat(recurring): automated subscription cadence detection algorithm
-- 2025-03-18 15:29: feat(export): CSV ledger export with localized currency format
-- 2025-03-18 20:45: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2025-03-18 21:50: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-03-18 22:52: perf(ledger): batch transaction insert latency optimization
-- 2025-04-07 19:29: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-04-07 22:48: feat(analytics): spending vector category breakdowns
-- 2025-04-12 10:34: refactor(api): edge route handler for rapid ledger calculation
-- 2025-04-12 12:32: perf(ledger): batch transaction insert latency optimization
 - 2025-04-12 13:08: fix(db): optimize monthly budget aggregation query
 - 2025-04-12 15:23: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-04-12 16:15: feat(recurring): automated subscription cadence detection algorithm
@@ -58,3 +49,4 @@
 - 2025-05-09 22:45: feat(recurring): automated subscription cadence detection algorithm
 - 2025-05-26 10:47: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-05-26 11:04: refactor(auth): token refresh rotation and session store
+- 2025-05-26 12:51: fix(categorization): rule-based fallback when ML tag confidence is low
