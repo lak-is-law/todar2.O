@@ -53,3 +53,4 @@
 - 2025-05-26 13:03: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-05-26 14:05: feat(export): CSV ledger export with localized currency format
 - 2025-05-26 15:34: refactor(auth): token refresh rotation and session store
+- 2025-05-26 16:19: refactor(api): edge route handler for rapid ledger calculation
