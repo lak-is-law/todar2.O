@@ -56,3 +56,4 @@
 - 2025-05-09 15:55: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-05-09 17:09: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-05-09 22:45: feat(recurring): automated subscription cadence detection algorithm
+- 2025-05-26 10:47: fix(categorization): rule-based fallback when ML tag confidence is low
