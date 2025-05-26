@@ -56,3 +56,4 @@
 - 2025-05-26 16:19: refactor(api): edge route handler for rapid ledger calculation
 - 2025-05-26 17:20: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-05-26 18:42: refactor(api): edge route handler for rapid ledger calculation
+- 2025-05-26 19:52: refactor(schema): add foreign key indexes on ledger transactions
