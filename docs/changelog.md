@@ -50,3 +50,4 @@
 - 2025-05-26 19:52: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-05-26 20:25: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-05-26 21:39: perf(cache): Redis caching layer for monthly expense summaries
+- 2025-05-26 22:31: feat(recurring): automated subscription cadence detection algorithm
