@@ -50,3 +50,4 @@
 - 2025-05-26 10:47: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-05-26 11:04: refactor(auth): token refresh rotation and session store
 - 2025-05-26 12:51: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2025-05-26 13:03: feat(forecasting): exponential smoothing pipeline for monthly burn
