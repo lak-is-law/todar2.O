@@ -56,3 +56,4 @@
 - 2025-06-03 12:41: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-06-03 13:33: feat(recurring): automated subscription cadence detection algorithm
 - 2025-06-03 14:49: docs(api): document transaction pagination and filter schema
+- 2025-06-03 16:47: refactor(auth): token refresh rotation and session store
