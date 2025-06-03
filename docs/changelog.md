@@ -53,3 +53,4 @@
 - 2025-05-26 22:31: feat(recurring): automated subscription cadence detection algorithm
 - 2025-06-03 10:58: fix(db): optimize monthly budget aggregation query
 - 2025-06-03 11:23: test(forecasting): unit tests for predictive burn-rate bounds
+- 2025-06-03 12:41: fix(categorization): rule-based fallback when ML tag confidence is low
