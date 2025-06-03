@@ -55,3 +55,4 @@
 - 2025-06-03 11:23: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-06-03 12:41: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-06-03 13:33: feat(recurring): automated subscription cadence detection algorithm
+- 2025-06-03 14:49: docs(api): document transaction pagination and filter schema
