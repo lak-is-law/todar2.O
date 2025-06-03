@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-04-21 12:29: refactor(auth): token refresh rotation and session store
-- 2025-04-21 13:18: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-04-21 13:34: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2025-04-21 14:31: feat(alerts): push notification triggers on budget threshold breach
-- 2025-04-21 15:10: feat(recurring): automated subscription cadence detection algorithm
-- 2025-04-21 16:38: docs(api): document transaction pagination and filter schema
-- 2025-04-21 17:17: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-04-21 18:41: perf(ledger): batch transaction insert latency optimization
-- 2025-04-21 19:59: docs(api): document transaction pagination and filter schema
 - 2025-04-21 20:37: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 21:58: feat(recurring): automated subscription cadence detection algorithm
 - 2025-04-21 22:35: fix(categorization): rule-based fallback when ML tag confidence is low
@@ -58,3 +49,4 @@
 - 2025-06-03 14:49: docs(api): document transaction pagination and filter schema
 - 2025-06-03 16:47: refactor(auth): token refresh rotation and session store
 - 2025-06-03 17:34: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2025-06-03 18:43: docs(api): document transaction pagination and filter schema
