@@ -53,3 +53,4 @@
 - 2025-06-03 19:07: feat(alerts): push notification triggers on budget threshold breach
 - 2025-06-03 20:18: docs(api): document transaction pagination and filter schema
 - 2025-06-03 21:05: perf(cache): Redis caching layer for monthly expense summaries
+- 2025-06-03 22:18: feat(export): CSV ledger export with localized currency format
