@@ -50,3 +50,4 @@
 - 2025-06-29 12:46: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-06-29 14:57: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-06-29 15:13: test(forecasting): unit tests for predictive burn-rate bounds
+- 2025-06-29 16:22: test(forecasting): unit tests for predictive burn-rate bounds
