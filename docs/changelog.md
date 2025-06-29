@@ -52,3 +52,4 @@
 - 2025-06-29 15:13: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-06-29 16:22: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-06-29 18:39: perf(ledger): batch transaction insert latency optimization
+- 2025-06-29 20:58: test(forecasting): unit tests for predictive burn-rate bounds
