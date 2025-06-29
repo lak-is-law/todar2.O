@@ -56,3 +56,4 @@
 - 2025-06-03 22:18: feat(export): CSV ledger export with localized currency format
 - 2025-06-09 14:32: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-06-29 11:40: fix(db): optimize monthly budget aggregation query
+- 2025-06-29 12:46: perf(cache): Redis caching layer for monthly expense summaries
