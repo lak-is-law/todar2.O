@@ -57,3 +57,4 @@
 - 2025-06-29 22:38: fix(db): optimize monthly budget aggregation query
 - 2025-07-14 13:57: docs(api): document transaction pagination and filter schema
 - 2025-07-14 15:30: refactor(auth): token refresh rotation and session store
+- 2025-07-14 19:15: feat(alerts): push notification triggers on budget threshold breach
