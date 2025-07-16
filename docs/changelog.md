@@ -53,3 +53,4 @@
 - 2025-07-14 22:07: refactor(api): edge route handler for rapid ledger calculation
 - 2025-07-16 13:22: fix(db): optimize monthly budget aggregation query
 - 2025-07-16 14:53: perf(ledger): batch transaction insert latency optimization
+- 2025-07-16 17:36: feat(alerts): push notification triggers on budget threshold breach
