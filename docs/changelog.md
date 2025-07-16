@@ -51,3 +51,4 @@
 - 2025-07-14 19:15: feat(alerts): push notification triggers on budget threshold breach
 - 2025-07-14 20:35: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-07-14 22:07: refactor(api): edge route handler for rapid ledger calculation
+- 2025-07-16 13:22: fix(db): optimize monthly budget aggregation query
