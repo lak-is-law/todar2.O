@@ -54,3 +54,4 @@
 - 2025-07-16 13:22: fix(db): optimize monthly budget aggregation query
 - 2025-07-16 14:53: perf(ledger): batch transaction insert latency optimization
 - 2025-07-16 17:36: feat(alerts): push notification triggers on budget threshold breach
+- 2025-07-18 10:09: feat(recurring): automated subscription cadence detection algorithm
