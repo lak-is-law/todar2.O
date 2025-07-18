@@ -55,3 +55,4 @@
 - 2025-07-16 14:53: perf(ledger): batch transaction insert latency optimization
 - 2025-07-16 17:36: feat(alerts): push notification triggers on budget threshold breach
 - 2025-07-18 10:09: feat(recurring): automated subscription cadence detection algorithm
+- 2025-07-18 16:40: refactor(auth): token refresh rotation and session store
