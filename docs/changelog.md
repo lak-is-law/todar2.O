@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-05-06 19:02: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-05-06 21:13: feat(recurring): automated subscription cadence detection algorithm
-- 2025-05-08 10:43: feat(ui): responsive budget breakdown charts with Tailwind
-- 2025-05-08 15:33: fix(db): optimize monthly budget aggregation query
-- 2025-05-08 18:06: refactor(api): edge route handler for rapid ledger calculation
-- 2025-05-08 20:23: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-05-08 21:02: feat(analytics): spending vector category breakdowns
-- 2025-05-09 12:40: perf(ledger): batch transaction insert latency optimization
-- 2025-05-09 15:55: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-05-09 17:09: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-05-09 22:45: feat(recurring): automated subscription cadence detection algorithm
 - 2025-05-26 10:47: fix(categorization): rule-based fallback when ML tag confidence is low
@@ -58,3 +49,4 @@
 - 2025-07-18 16:40: refactor(auth): token refresh rotation and session store
 - 2025-07-23 13:10: feat(analytics): spending vector category breakdowns
 - 2025-07-23 14:02: perf(cache): Redis caching layer for monthly expense summaries
+- 2025-07-23 16:40: feat(recurring): automated subscription cadence detection algorithm
