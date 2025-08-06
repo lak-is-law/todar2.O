@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-05-09 17:09: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-05-09 22:45: feat(recurring): automated subscription cadence detection algorithm
-- 2025-05-26 10:47: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2025-05-26 11:04: refactor(auth): token refresh rotation and session store
-- 2025-05-26 12:51: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2025-05-26 13:03: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-05-26 14:05: feat(export): CSV ledger export with localized currency format
-- 2025-05-26 15:34: refactor(auth): token refresh rotation and session store
-- 2025-05-26 16:19: refactor(api): edge route handler for rapid ledger calculation
 - 2025-05-26 17:20: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-05-26 18:42: refactor(api): edge route handler for rapid ledger calculation
 - 2025-05-26 19:52: refactor(schema): add foreign key indexes on ledger transactions
@@ -58,3 +49,4 @@
 - 2025-08-06 16:12: refactor(api): edge route handler for rapid ledger calculation
 - 2025-08-06 18:13: feat(alerts): push notification triggers on budget threshold breach
 - 2025-08-06 19:04: perf(ledger): batch transaction insert latency optimization
+- 2025-08-06 20:50: feat(analytics): spending vector category breakdowns
