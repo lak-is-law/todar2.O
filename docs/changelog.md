@@ -51,3 +51,4 @@
 - 2025-07-23 14:02: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-07-23 16:40: feat(recurring): automated subscription cadence detection algorithm
 - 2025-07-23 17:43: refactor(auth): token refresh rotation and session store
+- 2025-08-06 10:07: feat(alerts): push notification triggers on budget threshold breach
