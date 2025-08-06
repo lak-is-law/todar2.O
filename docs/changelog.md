@@ -50,3 +50,4 @@
 - 2025-08-06 18:13: feat(alerts): push notification triggers on budget threshold breach
 - 2025-08-06 19:04: perf(ledger): batch transaction insert latency optimization
 - 2025-08-06 20:50: feat(analytics): spending vector category breakdowns
+- 2025-08-06 21:47: feat(ui): responsive budget breakdown charts with Tailwind
