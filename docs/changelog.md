@@ -54,3 +54,4 @@
 - 2025-08-06 10:07: feat(alerts): push notification triggers on budget threshold breach
 - 2025-08-06 12:14: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-08-06 13:28: perf(ledger): batch transaction insert latency optimization
+- 2025-08-06 15:06: feat(alerts): push notification triggers on budget threshold breach
