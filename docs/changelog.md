@@ -54,3 +54,4 @@
 - 2025-08-06 22:18: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-08-15 10:19: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-08-15 13:18: docs(api): document transaction pagination and filter schema
+- 2025-08-15 14:50: refactor(schema): add foreign key indexes on ledger transactions
