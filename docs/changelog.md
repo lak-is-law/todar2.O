@@ -51,3 +51,4 @@
 - 2025-08-15 17:42: docs(api): document transaction pagination and filter schema
 - 2025-08-15 18:42: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-08-15 19:55: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-08-15 20:52: test(forecasting): unit tests for predictive burn-rate bounds
