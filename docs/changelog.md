@@ -50,3 +50,4 @@
 - 2025-08-15 16:01: fix(db): optimize monthly budget aggregation query
 - 2025-08-15 17:42: docs(api): document transaction pagination and filter schema
 - 2025-08-15 18:42: perf(cache): Redis caching layer for monthly expense summaries
+- 2025-08-15 19:55: feat(forecasting): exponential smoothing pipeline for monthly burn
