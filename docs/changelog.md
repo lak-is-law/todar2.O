@@ -56,3 +56,4 @@
 - 2025-08-15 13:18: docs(api): document transaction pagination and filter schema
 - 2025-08-15 14:50: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-08-15 15:33: feat(export): CSV ledger export with localized currency format
+- 2025-08-15 16:01: fix(db): optimize monthly budget aggregation query
