@@ -56,3 +56,4 @@
 - 2025-08-15 22:29: feat(recurring): automated subscription cadence detection algorithm
 - 2025-08-21 11:07: feat(export): CSV ledger export with localized currency format
 - 2025-08-21 12:09: test(forecasting): unit tests for predictive burn-rate bounds
+- 2025-08-21 14:33: perf(cache): Redis caching layer for monthly expense summaries
