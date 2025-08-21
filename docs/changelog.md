@@ -54,3 +54,4 @@
 - 2025-08-15 20:52: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-08-15 21:09: feat(alerts): push notification triggers on budget threshold breach
 - 2025-08-15 22:29: feat(recurring): automated subscription cadence detection algorithm
+- 2025-08-21 11:07: feat(export): CSV ledger export with localized currency format
