@@ -50,3 +50,4 @@
 - 2025-08-21 14:33: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-08-21 15:09: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-08-21 18:21: fix(db): optimize monthly budget aggregation query
+- 2025-08-21 19:38: feat(export): CSV ledger export with localized currency format
