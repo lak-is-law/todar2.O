@@ -54,3 +54,4 @@
 - 2025-08-21 21:23: feat(recurring): automated subscription cadence detection algorithm
 - 2025-09-12 12:03: refactor(api): edge route handler for rapid ledger calculation
 - 2025-09-12 19:01: test(forecasting): unit tests for predictive burn-rate bounds
+- 2025-09-12 20:04: feat(alerts): push notification triggers on budget threshold breach
