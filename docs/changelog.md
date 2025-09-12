@@ -52,3 +52,4 @@
 - 2025-08-21 18:21: fix(db): optimize monthly budget aggregation query
 - 2025-08-21 19:38: feat(export): CSV ledger export with localized currency format
 - 2025-08-21 21:23: feat(recurring): automated subscription cadence detection algorithm
+- 2025-09-12 12:03: refactor(api): edge route handler for rapid ledger calculation
