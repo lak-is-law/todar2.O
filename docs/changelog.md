@@ -53,3 +53,4 @@
 - 2025-10-04 15:02: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-10-04 17:42: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-10-04 19:06: feat(analytics): spending vector category breakdowns
+- 2025-10-04 21:00: docs(api): document transaction pagination and filter schema
