@@ -54,3 +54,4 @@
 - 2025-10-04 17:42: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-10-04 19:06: feat(analytics): spending vector category breakdowns
 - 2025-10-04 21:00: docs(api): document transaction pagination and filter schema
+- 2025-10-04 22:16: feat(ui): responsive budget breakdown charts with Tailwind
