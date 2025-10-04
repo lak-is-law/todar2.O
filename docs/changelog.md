@@ -56,3 +56,4 @@
 - 2025-09-12 19:01: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-09-12 20:04: feat(alerts): push notification triggers on budget threshold breach
 - 2025-10-04 11:07: test(forecasting): unit tests for predictive burn-rate bounds
+- 2025-10-04 12:54: feat(alerts): push notification triggers on budget threshold breach
