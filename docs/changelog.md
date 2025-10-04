@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-06-09 14:32: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-06-29 11:40: fix(db): optimize monthly budget aggregation query
-- 2025-06-29 12:46: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-06-29 14:57: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-06-29 15:13: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-06-29 16:22: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-06-29 18:39: perf(ledger): batch transaction insert latency optimization
-- 2025-06-29 20:58: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-06-29 21:23: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2025-06-29 22:38: fix(db): optimize monthly budget aggregation query
 - 2025-07-14 13:57: docs(api): document transaction pagination and filter schema
 - 2025-07-14 15:30: refactor(auth): token refresh rotation and session store
@@ -58,3 +49,4 @@
 - 2025-10-04 11:07: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-10-04 12:54: feat(alerts): push notification triggers on budget threshold breach
 - 2025-10-04 13:23: feat(alerts): push notification triggers on budget threshold breach
+- 2025-10-04 14:41: docs(api): document transaction pagination and filter schema
