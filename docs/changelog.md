@@ -50,3 +50,4 @@
 - 2025-10-04 12:54: feat(alerts): push notification triggers on budget threshold breach
 - 2025-10-04 13:23: feat(alerts): push notification triggers on budget threshold breach
 - 2025-10-04 14:41: docs(api): document transaction pagination and filter schema
+- 2025-10-04 15:02: test(forecasting): unit tests for predictive burn-rate bounds
