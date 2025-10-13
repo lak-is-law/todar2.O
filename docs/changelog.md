@@ -56,3 +56,4 @@
 - 2025-10-04 21:00: docs(api): document transaction pagination and filter schema
 - 2025-10-04 22:16: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-10-13 11:55: feat(export): CSV ledger export with localized currency format
+- 2025-10-13 13:16: test(forecasting): unit tests for predictive burn-rate bounds
