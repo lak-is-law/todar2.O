@@ -51,3 +51,4 @@
 - 2025-10-13 15:06: feat(alerts): push notification triggers on budget threshold breach
 - 2025-10-13 16:52: perf(ledger): batch transaction insert latency optimization
 - 2025-10-13 17:31: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-10-13 18:48: feat(recurring): automated subscription cadence detection algorithm
