@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-06-29 22:38: fix(db): optimize monthly budget aggregation query
-- 2025-07-14 13:57: docs(api): document transaction pagination and filter schema
-- 2025-07-14 15:30: refactor(auth): token refresh rotation and session store
-- 2025-07-14 19:15: feat(alerts): push notification triggers on budget threshold breach
-- 2025-07-14 20:35: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-07-14 22:07: refactor(api): edge route handler for rapid ledger calculation
-- 2025-07-16 13:22: fix(db): optimize monthly budget aggregation query
-- 2025-07-16 14:53: perf(ledger): batch transaction insert latency optimization
-- 2025-07-16 17:36: feat(alerts): push notification triggers on budget threshold breach
 - 2025-07-18 10:09: feat(recurring): automated subscription cadence detection algorithm
 - 2025-07-18 16:40: refactor(auth): token refresh rotation and session store
 - 2025-07-23 13:10: feat(analytics): spending vector category breakdowns
@@ -58,3 +49,4 @@
 - 2025-10-13 11:55: feat(export): CSV ledger export with localized currency format
 - 2025-10-13 13:16: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-10-13 15:06: feat(alerts): push notification triggers on budget threshold breach
+- 2025-10-13 16:52: perf(ledger): batch transaction insert latency optimization
