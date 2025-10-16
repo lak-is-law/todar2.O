@@ -53,3 +53,4 @@
 - 2025-10-13 17:31: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-10-13 18:48: feat(recurring): automated subscription cadence detection algorithm
 - 2025-10-13 22:57: fix(db): optimize monthly budget aggregation query
+- 2025-10-16 10:07: feat(analytics): spending vector category breakdowns
