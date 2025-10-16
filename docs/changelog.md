@@ -56,3 +56,4 @@
 - 2025-10-16 10:07: feat(analytics): spending vector category breakdowns
 - 2025-10-16 15:54: feat(recurring): automated subscription cadence detection algorithm
 - 2025-10-16 20:38: feat(ui): responsive budget breakdown charts with Tailwind
+- 2025-10-16 22:48: refactor(auth): token refresh rotation and session store
