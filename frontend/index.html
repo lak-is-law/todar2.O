@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Expense Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- TensorFlow.js for AI predictions -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <i class="fas fa-chart-line"></i>
+                <span>Smart Expense Tracker</span>
+            </div>
+            <div class="nav-menu">
+                <button class="nav-btn active" data-section="dashboard">Dashboard</button>
+                <button class="nav-btn" data-section="expenses">Expenses</button>
+                <button class="nav-btn" data-section="insights">AI Insights</button>
+                <div class="theme-switcher">
+                    <button class="theme-btn" data-theme="default" title="Default Theme">
+                        <i class="fas fa-palette"></i>
+                    </button>
+                    <button class="theme-btn" data-theme="monochrome" title="Black & White">
+                        <i class="fas fa-adjust"></i>
+                    </button>
+                    <button class="theme-btn" data-theme="gold" title="Gold & Black">
+                        <i class="fas fa-crown"></i>
+                    </button>
+                    <button class="theme-btn" data-theme="nature" title="Green & Purple">
+                        <i class="fas fa-leaf"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+        <div class="hero-container">
+            <h1 class="hero-title">Smart Expense Tracker</h1>
+            <p class="hero-subtitle">Track Smarter. Spend Better.</p>
+            <div class="hero-features">
+                <div class="feature-item">
+                    <i class="fas fa-brain"></i>
+                    <span>AI-Powered Insights</span>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-chart-line"></i>
+                    <span>Smart Predictions</span>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-mobile-alt"></i>
+                    <span>Mobile Responsive</span>
+                </div>
+            </div>
+            <button class="cta-button" onclick="showAddExpenseModal()">
+                <i class="fas fa-plus"></i>
+                Add Your First Expense
+            </button>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Dashboard Section -->
+        <section class="content-section active" id="dashboard">
+            <div class="warning-banner" id="warningBanner" style="display: none;">
+                <i class="fas fa-exclamation-triangle"></i>
+                <span>Monthly spending exceeds ₹5000! Consider reducing expenses.</span>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fas fa-rupee-sign"></i></div>
+                    <div class="stat-content">
+                        <h3 class="stat-value" id="totalSpending">₹0</h3>
+                        <p class="stat-label">Total This Month</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fas fa-chart-pie"></i></div>
+                    <div class="stat-content">
+                        <h3 class="stat-value" id="expenseCount">0</h3>
+                        <p class="stat-label">Total Expenses</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fas fa-brain"></i></div>
+                    <div class="stat-content">
+                        <h3 class="stat-value" id="nextMonthPrediction">₹0</h3>
+                        <p class="stat-label">Next Month Prediction</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fas fa-percentage"></i></div>
+                    <div class="stat-content">
+                        <h3 class="stat-value" id="budgetProgress">0%</h3>
+                        <p class="stat-label">Budget Used</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="dashboard-grid">
+                <div class="dashboard-card">
+                    <h3 class="card-title">
+                        <i class="fas fa-chart-pie"></i>
+                        Category Breakdown
+                    </h3>
+                    <div class="category-list" id="categoryList"></div>
+                </div>
+                <div class="dashboard-card">
+                    <h3 class="card-title">
+                        <i class="fas fa-chart-line"></i>
+                        Monthly Trend
+                    </h3>
+                    <div class="trend-chart" id="trendChart">
+                        <canvas id="trendCanvas" width="400" height="200"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Expenses Section -->
+        <section class="content-section" id="expenses">
+            <div class="section-header">
+                <h2>All Expenses</h2>
+                <button class="add-expense-btn" onclick="showAddExpenseModal()">
+                    <i class="fas fa-plus"></i> Add Expense
+                </button>
+            </div>
+            <div class="expenses-table-container">
+                <table class="expenses-table" id="expensesTable">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Category</th>
+                            <th>Description</th>
+                            <th>Amount</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="expensesTableBody"></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- AI Insights Section -->
+        <section class="content-section" id="insights">
+            <div class="section-header">
+                <h2>AI Insights & Predictions</h2>
+                <button class="refresh-btn" onclick="loadAIInsights()">
+                    <i class="fas fa-sync-alt"></i> Refresh Insights
+                </button>
+            </div>
+            <div class="insights-grid">
+                <div class="insight-card">
+                    <div class="insight-header">
+                        <i class="fas fa-crystal-ball"></i>
+                        <h3>Predictions</h3>
+                    </div>
+                    <div id="predictionsContent" class="insight-content"></div>
+                </div>
+                <div class="insight-card">
+                    <div class="insight-header">
+                        <i class="fas fa-lightbulb"></i>
+                        <h3>Recommendations</h3>
+                    </div>
+                    <div id="recommendationsContent" class="insight-content"></div>
+                </div>
+                <div class="insight-card">
+                    <div class="insight-header">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <h3>Anomalies</h3>
+                    </div>
+                    <div id="anomaliesContent" class="insight-content"></div>
+                </div>
+                <div class="insight-card">
+                    <div class="insight-header">
+                        <i class="fas fa-chart-area"></i>
+                        <h3>Trend Analysis</h3>
+                    </div>
+                    <div id="trendAnalysisContent" class="insight-content"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Add Expense Modal -->
+    <div class="modal" id="addExpenseModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Add New Expense</h3>
+                <button class="modal-close" onclick="hideAddExpenseModal()">×</button>
+            </div>
+            <form class="expense-form" id="expenseForm">
+                <div class="form-group">
+                    <label for="expenseDate">Date</label>
+                    <input type="date" id="expenseDate" name="date" required>
+                </div>
+                <div class="form-group">
+                    <label for="expenseCategory">Category</label>
+                    <select id="expenseCategory" name="category" required>
+                        <option value="">Select Category</option>
+                        <option value="Food">Food</option>
+                        <option value="Travel">Travel</option>
+                        <option value="Shopping">Shopping</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="expenseAmount">Amount (₹)</label>
+                    <input type="number" id="expenseAmount" name="amount" min="0" step="0.01" required>
+                </div>
+                <div class="form-group">
+                    <label for="expenseDescription">Description</label>
+                    <textarea id="expenseDescription" name="description" rows="3" placeholder="Enter expense description..."></textarea>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn-secondary" onclick="hideAddExpenseModal()">Cancel</button>
+                    <button type="submit" class="btn-primary">
+                        <i class="fas fa-save"></i>
+                        Save Expense
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Loading Spinner -->
+    <div class="loading-spinner" id="loadingSpinner" style="display: none;">
+        <div class="spinner"></div>
+        <p>Loading...</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
