@@ -57,3 +57,4 @@
 - 2025-10-16 15:54: feat(recurring): automated subscription cadence detection algorithm
 - 2025-10-16 20:38: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-10-16 22:48: refactor(auth): token refresh rotation and session store
+- 2025-11-06 13:34: refactor(schema): add foreign key indexes on ledger transactions
