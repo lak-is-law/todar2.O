@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-07-18 10:09: feat(recurring): automated subscription cadence detection algorithm
-- 2025-07-18 16:40: refactor(auth): token refresh rotation and session store
-- 2025-07-23 13:10: feat(analytics): spending vector category breakdowns
-- 2025-07-23 14:02: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-07-23 16:40: feat(recurring): automated subscription cadence detection algorithm
-- 2025-07-23 17:43: refactor(auth): token refresh rotation and session store
-- 2025-08-06 10:07: feat(alerts): push notification triggers on budget threshold breach
-- 2025-08-06 12:14: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-08-06 13:28: perf(ledger): batch transaction insert latency optimization
 - 2025-08-06 15:06: feat(alerts): push notification triggers on budget threshold breach
 - 2025-08-06 16:12: refactor(api): edge route handler for rapid ledger calculation
 - 2025-08-06 18:13: feat(alerts): push notification triggers on budget threshold breach
@@ -58,3 +49,4 @@
 - 2025-10-16 20:38: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-10-16 22:48: refactor(auth): token refresh rotation and session store
 - 2025-11-06 13:34: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-11-06 15:59: refactor(schema): add foreign key indexes on ledger transactions
