@@ -50,3 +50,4 @@
 - 2025-10-16 22:48: refactor(auth): token refresh rotation and session store
 - 2025-11-06 13:34: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-11-06 15:59: refactor(schema): add foreign key indexes on ledger transactions
+- 2025-11-06 19:23: feat(export): CSV ledger export with localized currency format
