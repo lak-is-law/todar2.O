@@ -2,14 +2,10 @@ const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const { dbOperations } = require('./config/database');
-
 const app = express();
 const PORT = process.env.PORT || 3000;
-
-// Middleware
 app.use(cors());
 app.use(bodyParser.json());
-
 // Simple AI prediction function
 function predictNextMonth(monthlyTotals) {
     if (monthlyTotals.length < 2) return 0;
@@ -19,7 +15,6 @@ function predictNextMonth(monthlyTotals) {
     const trend = recent - previous;
     return Math.max(0, recent + trend);
 }
-
 // Generate AI insights
 function generateInsights(expenses, categoryTotals, monthlyTotals) {
     const insights = {
@@ -27,7 +22,6 @@ function generateInsights(expenses, categoryTotals, monthlyTotals) {
         recommendations: [],
         anomalies: []
     };
-
     // Category recommendations
     if (categoryTotals.length > 0) {
         const total = categoryTotals.reduce((sum, cat) => sum + cat.total, 0);
