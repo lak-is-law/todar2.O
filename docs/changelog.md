@@ -55,3 +55,4 @@
 - 2025-12-23 11:04: perf(cache): Redis caching layer for monthly expense summaries
 - 2025-12-23 12:28: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-12-23 14:27: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-12-23 16:27: feat(analytics): spending vector category breakdowns
