@@ -52,3 +52,4 @@
 - 2025-11-06 15:59: refactor(schema): add foreign key indexes on ledger transactions
 - 2025-11-06 19:23: feat(export): CSV ledger export with localized currency format
 - 2025-11-06 21:12: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2025-12-23 11:04: perf(cache): Redis caching layer for monthly expense summaries
