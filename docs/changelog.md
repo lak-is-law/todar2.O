@@ -57,3 +57,4 @@
 - 2025-12-23 14:27: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2025-12-23 16:27: feat(analytics): spending vector category breakdowns
 - 2025-12-23 17:46: feat(alerts): push notification triggers on budget threshold breach
+- 2025-12-23 21:18: refactor(auth): token refresh rotation and session store
