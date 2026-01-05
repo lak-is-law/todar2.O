@@ -50,3 +50,4 @@
 - 2025-12-23 17:46: feat(alerts): push notification triggers on budget threshold breach
 - 2025-12-23 21:18: refactor(auth): token refresh rotation and session store
 - 2025-12-23 22:18: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-01-05 10:06: fix(categorization): rule-based fallback when ML tag confidence is low
