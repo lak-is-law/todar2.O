@@ -56,3 +56,4 @@
 - 2026-01-05 16:22: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-05 17:41: refactor(auth): token refresh rotation and session store
 - 2026-01-05 18:12: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-01-05 22:41: refactor(api): edge route handler for rapid ledger calculation
