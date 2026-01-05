@@ -51,3 +51,4 @@
 - 2025-12-23 21:18: refactor(auth): token refresh rotation and session store
 - 2025-12-23 22:18: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-01-05 10:06: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-01-05 14:37: refactor(schema): add foreign key indexes on ledger transactions
