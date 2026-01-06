@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-08-15 14:50: refactor(schema): add foreign key indexes on ledger transactions
-- 2025-08-15 15:33: feat(export): CSV ledger export with localized currency format
-- 2025-08-15 16:01: fix(db): optimize monthly budget aggregation query
-- 2025-08-15 17:42: docs(api): document transaction pagination and filter schema
-- 2025-08-15 18:42: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-08-15 19:55: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-08-15 20:52: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-08-15 21:09: feat(alerts): push notification triggers on budget threshold breach
-- 2025-08-15 22:29: feat(recurring): automated subscription cadence detection algorithm
 - 2025-08-21 11:07: feat(export): CSV ledger export with localized currency format
 - 2025-08-21 12:09: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-08-21 14:33: perf(cache): Redis caching layer for monthly expense summaries
@@ -58,3 +49,4 @@
 - 2026-01-05 18:12: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-01-05 22:41: refactor(api): edge route handler for rapid ledger calculation
 - 2026-01-06 18:33: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-01-06 22:50: perf(ledger): batch transaction insert latency optimization
