@@ -51,3 +51,4 @@
 - 2026-01-06 18:33: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-01-06 22:50: perf(ledger): batch transaction insert latency optimization
 - 2026-01-08 10:04: feat(alerts): push notification triggers on budget threshold breach
+- 2026-01-08 18:34: perf(cache): Redis caching layer for monthly expense summaries
