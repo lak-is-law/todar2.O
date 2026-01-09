@@ -52,3 +52,4 @@
 - 2026-01-06 22:50: perf(ledger): batch transaction insert latency optimization
 - 2026-01-08 10:04: feat(alerts): push notification triggers on budget threshold breach
 - 2026-01-08 18:34: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-01-09 10:52: refactor(schema): add foreign key indexes on ledger transactions
