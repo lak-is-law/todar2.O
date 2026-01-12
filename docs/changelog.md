@@ -57,3 +57,4 @@
 - 2026-01-12 10:18: refactor(api): edge route handler for rapid ledger calculation
 - 2026-01-12 11:06: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-01-12 12:17: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-01-12 14:01: fix(categorization): rule-based fallback when ML tag confidence is low
