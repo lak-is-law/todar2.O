@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-08-21 11:07: feat(export): CSV ledger export with localized currency format
-- 2025-08-21 12:09: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-08-21 14:33: perf(cache): Redis caching layer for monthly expense summaries
-- 2025-08-21 15:09: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-08-21 18:21: fix(db): optimize monthly budget aggregation query
-- 2025-08-21 19:38: feat(export): CSV ledger export with localized currency format
-- 2025-08-21 21:23: feat(recurring): automated subscription cadence detection algorithm
-- 2025-09-12 12:03: refactor(api): edge route handler for rapid ledger calculation
-- 2025-09-12 19:01: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-09-12 20:04: feat(alerts): push notification triggers on budget threshold breach
 - 2025-10-04 11:07: test(forecasting): unit tests for predictive burn-rate bounds
 - 2025-10-04 12:54: feat(alerts): push notification triggers on budget threshold breach
@@ -58,3 +49,4 @@
 - 2026-01-12 11:06: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-01-12 12:17: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-01-12 14:01: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-01-12 16:27: feat(recurring): automated subscription cadence detection algorithm
