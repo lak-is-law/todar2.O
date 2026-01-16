@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-10-04 22:16: feat(ui): responsive budget breakdown charts with Tailwind
-- 2025-10-13 11:55: feat(export): CSV ledger export with localized currency format
-- 2025-10-13 13:16: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-10-13 15:06: feat(alerts): push notification triggers on budget threshold breach
-- 2025-10-13 16:52: perf(ledger): batch transaction insert latency optimization
-- 2025-10-13 17:31: refactor(schema): add foreign key indexes on ledger transactions
-- 2025-10-13 18:48: feat(recurring): automated subscription cadence detection algorithm
-- 2025-10-13 22:57: fix(db): optimize monthly budget aggregation query
-- 2025-10-16 10:07: feat(analytics): spending vector category breakdowns
 - 2025-10-16 15:54: feat(recurring): automated subscription cadence detection algorithm
 - 2025-10-16 20:38: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-10-16 22:48: refactor(auth): token refresh rotation and session store
@@ -58,3 +49,4 @@
 - 2026-01-16 19:48: feat(analytics): spending vector category breakdowns
 - 2026-01-16 20:53: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-01-16 21:31: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-01-16 22:43: feat(ui): responsive budget breakdown charts with Tailwind
