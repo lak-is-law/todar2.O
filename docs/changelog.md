@@ -53,3 +53,4 @@
 - 2026-01-12 18:30: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-01-12 22:50: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-16 10:10: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-01-16 10:24: fix(categorization): rule-based fallback when ML tag confidence is low
