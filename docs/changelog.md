@@ -56,3 +56,4 @@
 - 2026-01-16 17:40: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-16 18:59: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-01-16 19:48: feat(analytics): spending vector category breakdowns
+- 2026-01-16 20:53: feat(ui): responsive budget breakdown charts with Tailwind
