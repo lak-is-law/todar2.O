@@ -51,3 +51,4 @@
 - 2026-01-16 12:25: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-01-16 13:59: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-01-16 14:32: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-01-16 15:46: perf(ledger): batch transaction insert latency optimization
