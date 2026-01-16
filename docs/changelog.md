@@ -56,3 +56,4 @@
 - 2026-01-16 10:24: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-01-16 11:05: feat(analytics): spending vector category breakdowns
 - 2026-01-16 11:55: docs(api): document transaction pagination and filter schema
+- 2026-01-16 12:01: test(forecasting): unit tests for predictive burn-rate bounds
