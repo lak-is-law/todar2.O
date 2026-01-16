@@ -50,3 +50,4 @@
 - 2026-01-16 12:01: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-01-16 12:25: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-01-16 13:59: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-01-16 14:32: perf(cache): Redis caching layer for monthly expense summaries
