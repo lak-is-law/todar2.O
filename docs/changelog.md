@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-09-12 20:04: feat(alerts): push notification triggers on budget threshold breach
-- 2025-10-04 11:07: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-10-04 12:54: feat(alerts): push notification triggers on budget threshold breach
-- 2025-10-04 13:23: feat(alerts): push notification triggers on budget threshold breach
-- 2025-10-04 14:41: docs(api): document transaction pagination and filter schema
-- 2025-10-04 15:02: test(forecasting): unit tests for predictive burn-rate bounds
-- 2025-10-04 17:42: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2025-10-04 19:06: feat(analytics): spending vector category breakdowns
-- 2025-10-04 21:00: docs(api): document transaction pagination and filter schema
 - 2025-10-04 22:16: feat(ui): responsive budget breakdown charts with Tailwind
 - 2025-10-13 11:55: feat(export): CSV ledger export with localized currency format
 - 2025-10-13 13:16: test(forecasting): unit tests for predictive burn-rate bounds
@@ -58,3 +49,4 @@
 - 2026-01-16 11:55: docs(api): document transaction pagination and filter schema
 - 2026-01-16 12:01: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-01-16 12:25: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-01-16 13:59: refactor(schema): add foreign key indexes on ledger transactions
