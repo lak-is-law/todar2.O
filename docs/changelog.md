@@ -50,3 +50,4 @@
 - 2026-01-16 20:53: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-01-16 21:31: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-01-16 22:43: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-01-21 13:22: perf(cache): Redis caching layer for monthly expense summaries
