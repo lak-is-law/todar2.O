@@ -53,3 +53,4 @@
 - 2026-01-21 13:22: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-01-21 15:13: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-01-21 16:58: fix(db): optimize monthly budget aggregation query
+- 2026-01-21 19:35: feat(export): CSV ledger export with localized currency format
