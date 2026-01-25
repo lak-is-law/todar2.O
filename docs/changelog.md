@@ -51,3 +51,4 @@
 - 2026-01-25 15:08: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-25 16:52: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-25 16:54: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-01-25 17:21: fix(db): optimize monthly budget aggregation query
