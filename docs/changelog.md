@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-01-05 17:41: refactor(auth): token refresh rotation and session store
-- 2026-01-05 18:12: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-01-05 22:41: refactor(api): edge route handler for rapid ledger calculation
-- 2026-01-06 18:33: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-01-06 22:50: perf(ledger): batch transaction insert latency optimization
-- 2026-01-08 10:04: feat(alerts): push notification triggers on budget threshold breach
-- 2026-01-08 18:34: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-01-09 10:52: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-01-09 13:59: refactor(api): edge route handler for rapid ledger calculation
 - 2026-01-12 10:18: refactor(api): edge route handler for rapid ledger calculation
 - 2026-01-12 11:06: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-01-12 12:17: perf(cache): Redis caching layer for monthly expense summaries
@@ -58,3 +49,4 @@
 - 2026-01-25 19:08: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-01-25 19:33: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-01-25 20:21: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-01-25 20:38: refactor(api): edge route handler for rapid ledger calculation
