@@ -51,3 +51,4 @@
 - 2026-01-25 11:19: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-01-25 11:41: fix(db): optimize monthly budget aggregation query
 - 2026-01-25 12:29: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-01-25 12:56: feat(alerts): push notification triggers on budget threshold breach
