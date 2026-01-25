@@ -51,3 +51,4 @@
 - 2026-01-25 20:21: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-01-25 20:38: refactor(api): edge route handler for rapid ledger calculation
 - 2026-01-25 21:40: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-01-25 22:51: test(forecasting): unit tests for predictive burn-rate bounds
