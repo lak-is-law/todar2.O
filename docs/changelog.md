@@ -56,3 +56,4 @@
 - 2026-01-25 13:22: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-01-25 14:18: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-01-25 14:48: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-01-25 15:06: fix(db): optimize monthly budget aggregation query
