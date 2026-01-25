@@ -57,3 +57,4 @@
 - 2026-01-21 21:36: fix(db): optimize monthly budget aggregation query
 - 2026-01-25 10:39: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-01-25 10:45: feat(alerts): push notification triggers on budget threshold breach
+- 2026-01-25 11:19: test(forecasting): unit tests for predictive burn-rate bounds
