@@ -56,3 +56,4 @@
 - 2026-01-25 18:39: refactor(auth): token refresh rotation and session store
 - 2026-01-25 18:47: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-01-25 19:08: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-01-25 19:33: feat(forecasting): exponential smoothing pipeline for monthly burn
