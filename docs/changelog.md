@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-12-23 14:27: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2025-12-23 16:27: feat(analytics): spending vector category breakdowns
-- 2025-12-23 17:46: feat(alerts): push notification triggers on budget threshold breach
-- 2025-12-23 21:18: refactor(auth): token refresh rotation and session store
-- 2025-12-23 22:18: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-01-05 10:06: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-01-05 14:37: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-01-05 15:55: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-01-05 16:22: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-05 17:41: refactor(auth): token refresh rotation and session store
 - 2026-01-05 18:12: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-01-05 22:41: refactor(api): edge route handler for rapid ledger calculation
@@ -58,3 +49,4 @@
 - 2026-01-25 14:48: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-01-25 15:06: fix(db): optimize monthly budget aggregation query
 - 2026-01-25 15:08: feat(recurring): automated subscription cadence detection algorithm
+- 2026-01-25 16:52: feat(recurring): automated subscription cadence detection algorithm
