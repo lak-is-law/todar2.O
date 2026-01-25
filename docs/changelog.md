@@ -55,3 +55,4 @@
 - 2026-01-21 16:58: fix(db): optimize monthly budget aggregation query
 - 2026-01-21 19:35: feat(export): CSV ledger export with localized currency format
 - 2026-01-21 21:36: fix(db): optimize monthly budget aggregation query
+- 2026-01-25 10:39: fix(categorization): rule-based fallback when ML tag confidence is low
