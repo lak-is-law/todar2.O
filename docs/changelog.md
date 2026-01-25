@@ -53,3 +53,4 @@
 - 2026-01-25 12:29: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-01-25 12:56: feat(alerts): push notification triggers on budget threshold breach
 - 2026-01-25 13:15: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-01-25 13:22: fix(categorization): rule-based fallback when ML tag confidence is low
