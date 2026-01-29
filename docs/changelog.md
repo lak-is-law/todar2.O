@@ -54,3 +54,4 @@
 - 2026-01-25 22:51: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-01-29 10:18: fix(db): optimize monthly budget aggregation query
 - 2026-01-29 12:52: feat(recurring): automated subscription cadence detection algorithm
+- 2026-01-29 13:40: fix(db): optimize monthly budget aggregation query
