@@ -56,3 +56,4 @@
 - 2026-01-29 12:52: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-29 13:40: fix(db): optimize monthly budget aggregation query
 - 2026-01-29 14:39: feat(analytics): spending vector category breakdowns
+- 2026-01-29 19:51: fix(db): optimize monthly budget aggregation query
