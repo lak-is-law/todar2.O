@@ -50,3 +50,4 @@
 - 2026-01-29 19:51: fix(db): optimize monthly budget aggregation query
 - 2026-01-29 20:38: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-01-29 21:06: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-01-29 22:17: feat(forecasting): exponential smoothing pipeline for monthly burn
