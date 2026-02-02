@@ -52,3 +52,4 @@
 - 2026-01-29 21:06: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-01-29 22:17: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-02-02 11:47: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-02-02 12:13: feat(recurring): automated subscription cadence detection algorithm
