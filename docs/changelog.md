@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-01-16 11:05: feat(analytics): spending vector category breakdowns
-- 2026-01-16 11:55: docs(api): document transaction pagination and filter schema
-- 2026-01-16 12:01: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-01-16 12:25: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-01-16 13:59: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-01-16 14:32: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-01-16 15:46: perf(ledger): batch transaction insert latency optimization
-- 2026-01-16 16:00: feat(alerts): push notification triggers on budget threshold breach
-- 2026-01-16 17:40: feat(recurring): automated subscription cadence detection algorithm
 - 2026-01-16 18:59: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-01-16 19:48: feat(analytics): spending vector category breakdowns
 - 2026-01-16 20:53: feat(ui): responsive budget breakdown charts with Tailwind
@@ -58,3 +49,4 @@
 - 2026-02-16 10:07: fix(db): optimize monthly budget aggregation query
 - 2026-02-16 12:52: feat(recurring): automated subscription cadence detection algorithm
 - 2026-02-16 14:54: fix(db): optimize monthly budget aggregation query
+- 2026-02-16 16:41: feat(analytics): spending vector category breakdowns
