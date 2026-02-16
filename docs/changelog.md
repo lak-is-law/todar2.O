@@ -51,3 +51,4 @@
 - 2026-02-16 14:54: fix(db): optimize monthly budget aggregation query
 - 2026-02-16 16:41: feat(analytics): spending vector category breakdowns
 - 2026-02-16 18:35: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-02-16 21:47: feat(ui): responsive budget breakdown charts with Tailwind
