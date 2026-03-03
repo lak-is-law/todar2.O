@@ -54,3 +54,4 @@
 - 2026-02-16 21:47: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-02-20 13:25: refactor(auth): token refresh rotation and session store
 - 2026-02-20 16:42: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-03-03 10:34: test(forecasting): unit tests for predictive burn-rate bounds
