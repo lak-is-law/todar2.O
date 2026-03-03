@@ -57,3 +57,4 @@
 - 2026-03-03 10:34: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-03-03 11:56: feat(export): CSV ledger export with localized currency format
 - 2026-03-03 12:17: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-03-03 13:09: fix(db): optimize monthly budget aggregation query
