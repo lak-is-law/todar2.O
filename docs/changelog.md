@@ -51,3 +51,4 @@
 - 2026-03-03 13:09: fix(db): optimize monthly budget aggregation query
 - 2026-03-03 15:58: perf(ledger): batch transaction insert latency optimization
 - 2026-03-03 16:57: perf(ledger): batch transaction insert latency optimization
+- 2026-03-03 17:39: fix(db): optimize monthly budget aggregation query
