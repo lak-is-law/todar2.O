@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-01-16 18:59: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-01-16 19:48: feat(analytics): spending vector category breakdowns
-- 2026-01-16 20:53: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-01-16 21:31: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-01-16 22:43: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-01-21 13:22: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-01-21 15:13: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-01-21 16:58: fix(db): optimize monthly budget aggregation query
-- 2026-01-21 19:35: feat(export): CSV ledger export with localized currency format
 - 2026-01-21 21:36: fix(db): optimize monthly budget aggregation query
 - 2026-01-25 10:39: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-01-25 10:45: feat(alerts): push notification triggers on budget threshold breach
@@ -58,3 +49,4 @@
 - 2026-03-03 11:56: feat(export): CSV ledger export with localized currency format
 - 2026-03-03 12:17: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-03-03 13:09: fix(db): optimize monthly budget aggregation query
+- 2026-03-03 15:58: perf(ledger): batch transaction insert latency optimization
