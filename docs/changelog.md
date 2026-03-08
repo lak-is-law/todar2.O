@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-01-21 21:36: fix(db): optimize monthly budget aggregation query
-- 2026-01-25 10:39: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-01-25 10:45: feat(alerts): push notification triggers on budget threshold breach
-- 2026-01-25 11:19: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-01-25 11:41: fix(db): optimize monthly budget aggregation query
-- 2026-01-25 12:29: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-01-25 12:56: feat(alerts): push notification triggers on budget threshold breach
-- 2026-01-25 13:15: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-01-25 13:22: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-01-25 14:18: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-01-25 14:48: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-01-25 15:06: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-03-08 11:57: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-03-08 12:31: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-03-08 13:25: perf(ledger): batch transaction insert latency optimization
+- 2026-03-08 14:17: refactor(auth): token refresh rotation and session store
