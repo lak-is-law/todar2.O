@@ -55,3 +55,4 @@
 - 2026-03-08 17:20: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-03-08 18:28: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-03-08 19:07: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-03-08 20:06: feat(analytics): spending vector category breakdowns
