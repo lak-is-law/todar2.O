@@ -51,3 +51,4 @@
 - 2026-03-08 13:25: perf(ledger): batch transaction insert latency optimization
 - 2026-03-08 14:17: refactor(auth): token refresh rotation and session store
 - 2026-03-08 15:37: perf(ledger): batch transaction insert latency optimization
+- 2026-03-08 16:43: docs(api): document transaction pagination and filter schema
