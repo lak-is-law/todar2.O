@@ -56,3 +56,4 @@
 - 2026-03-03 19:43: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-03-03 21:23: fix(db): optimize monthly budget aggregation query
 - 2026-03-08 11:57: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-03-08 12:31: refactor(schema): add foreign key indexes on ledger transactions
