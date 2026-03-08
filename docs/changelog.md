@@ -57,3 +57,4 @@
 - 2026-03-08 19:07: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-03-08 20:06: feat(analytics): spending vector category breakdowns
 - 2026-03-08 21:56: fix(db): optimize monthly budget aggregation query
+- 2026-03-08 22:34: feat(alerts): push notification triggers on budget threshold breach
