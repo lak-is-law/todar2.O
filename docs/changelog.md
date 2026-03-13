@@ -53,3 +53,4 @@
 - 2026-03-13 12:04: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-03-13 14:24: feat(alerts): push notification triggers on budget threshold breach
 - 2026-03-13 15:32: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-03-13 16:39: refactor(auth): token refresh rotation and session store
