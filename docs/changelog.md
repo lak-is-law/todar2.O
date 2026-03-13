@@ -50,3 +50,4 @@
 - 2026-03-08 21:56: fix(db): optimize monthly budget aggregation query
 - 2026-03-08 22:34: feat(alerts): push notification triggers on budget threshold breach
 - 2026-03-13 10:48: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-03-13 12:04: feat(forecasting): exponential smoothing pipeline for monthly burn
