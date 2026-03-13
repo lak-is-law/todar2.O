@@ -55,3 +55,4 @@
 - 2026-03-13 15:32: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-03-13 16:39: refactor(auth): token refresh rotation and session store
 - 2026-03-13 18:59: refactor(auth): token refresh rotation and session store
+- 2026-03-13 22:10: perf(cache): Redis caching layer for monthly expense summaries
