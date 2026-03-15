@@ -50,3 +50,4 @@
 - 2026-03-15 11:49: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-03-15 13:46: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-03-15 14:51: fix(db): optimize monthly budget aggregation query
+- 2026-03-15 15:23: docs(api): document transaction pagination and filter schema
