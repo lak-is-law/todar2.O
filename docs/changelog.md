@@ -56,3 +56,4 @@
 - 2026-03-13 16:39: refactor(auth): token refresh rotation and session store
 - 2026-03-13 18:59: refactor(auth): token refresh rotation and session store
 - 2026-03-13 22:10: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-03-15 11:49: feat(ui): responsive budget breakdown charts with Tailwind
