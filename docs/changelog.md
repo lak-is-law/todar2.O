@@ -53,3 +53,4 @@
 - 2026-03-15 15:23: docs(api): document transaction pagination and filter schema
 - 2026-03-15 17:11: refactor(auth): token refresh rotation and session store
 - 2026-03-15 19:30: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-03-23 10:46: fix(categorization): rule-based fallback when ML tag confidence is low
