@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-01-29 13:40: fix(db): optimize monthly budget aggregation query
-- 2026-01-29 14:39: feat(analytics): spending vector category breakdowns
-- 2026-01-29 19:51: fix(db): optimize monthly budget aggregation query
-- 2026-01-29 20:38: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-01-29 21:06: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-01-29 22:17: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-02-02 11:47: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-02-02 12:13: feat(recurring): automated subscription cadence detection algorithm
-- 2026-02-08 12:44: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-02-08 17:35: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-02-16 10:07: fix(db): optimize monthly budget aggregation query
 - 2026-02-16 12:52: feat(recurring): automated subscription cadence detection algorithm
@@ -58,3 +49,4 @@
 - 2026-03-23 15:34: refactor(auth): token refresh rotation and session store
 - 2026-03-23 18:28: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-03-23 19:03: perf(ledger): batch transaction insert latency optimization
+- 2026-03-23 20:25: fix(categorization): rule-based fallback when ML tag confidence is low
