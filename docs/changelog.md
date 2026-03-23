@@ -55,3 +55,4 @@
 - 2026-03-15 19:30: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-03-23 10:46: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-03-23 14:06: feat(analytics): spending vector category breakdowns
+- 2026-03-23 15:34: refactor(auth): token refresh rotation and session store
