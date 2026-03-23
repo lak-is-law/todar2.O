@@ -51,3 +51,4 @@
 - 2026-03-23 19:03: perf(ledger): batch transaction insert latency optimization
 - 2026-03-23 20:25: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-03-23 21:33: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-03-23 22:33: feat(recurring): automated subscription cadence detection algorithm
