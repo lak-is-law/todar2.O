@@ -53,3 +53,4 @@
 - 2026-03-23 21:33: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-03-23 22:33: feat(recurring): automated subscription cadence detection algorithm
 - 2026-03-26 10:44: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-03-26 20:56: fix(db): optimize monthly budget aggregation query
