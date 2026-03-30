@@ -55,3 +55,4 @@
 - 2026-03-26 10:44: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-03-26 20:56: fix(db): optimize monthly budget aggregation query
 - 2026-03-30 11:19: refactor(auth): token refresh rotation and session store
+- 2026-03-30 12:10: refactor(schema): add foreign key indexes on ledger transactions
