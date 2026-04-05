@@ -51,3 +51,4 @@
 - 2026-03-30 19:00: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-03-30 20:38: feat(export): CSV ledger export with localized currency format
 - 2026-04-05 11:37: feat(alerts): push notification triggers on budget threshold breach
+- 2026-04-05 18:36: perf(cache): Redis caching layer for monthly expense summaries
