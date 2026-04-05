@@ -53,3 +53,4 @@
 - 2026-04-05 11:37: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-05 18:36: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-04-05 19:13: refactor(auth): token refresh rotation and session store
+- 2026-04-05 20:20: perf(ledger): batch transaction insert latency optimization
