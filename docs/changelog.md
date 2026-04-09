@@ -57,3 +57,4 @@
 - 2026-04-08 20:43: refactor(auth): token refresh rotation and session store
 - 2026-04-09 11:53: docs(api): document transaction pagination and filter schema
 - 2026-04-09 13:29: refactor(auth): token refresh rotation and session store
+- 2026-04-09 18:21: feat(alerts): push notification triggers on budget threshold breach
