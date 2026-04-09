@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-03-03 10:34: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-03-03 11:56: feat(export): CSV ledger export with localized currency format
-- 2026-03-03 12:17: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-03-03 13:09: fix(db): optimize monthly budget aggregation query
-- 2026-03-03 15:58: perf(ledger): batch transaction insert latency optimization
-- 2026-03-03 16:57: perf(ledger): batch transaction insert latency optimization
-- 2026-03-03 17:39: fix(db): optimize monthly budget aggregation query
-- 2026-03-03 18:09: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-03-03 19:43: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-03-03 21:23: fix(db): optimize monthly budget aggregation query
 - 2026-03-08 11:57: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-03-08 12:31: refactor(schema): add foreign key indexes on ledger transactions
@@ -58,3 +49,4 @@
 - 2026-04-09 11:53: docs(api): document transaction pagination and filter schema
 - 2026-04-09 13:29: refactor(auth): token refresh rotation and session store
 - 2026-04-09 18:21: feat(alerts): push notification triggers on budget threshold breach
+- 2026-04-09 19:56: fix(categorization): rule-based fallback when ML tag confidence is low
