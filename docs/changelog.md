@@ -52,3 +52,4 @@
 - 2026-04-13 18:38: refactor(api): edge route handler for rapid ledger calculation
 - 2026-04-13 19:48: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-04-13 20:16: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-04-13 21:35: fix(categorization): rule-based fallback when ML tag confidence is low
