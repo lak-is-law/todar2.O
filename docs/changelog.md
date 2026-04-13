@@ -53,3 +53,4 @@
 - 2026-04-13 10:27: feat(recurring): automated subscription cadence detection algorithm
 - 2026-04-13 11:05: docs(api): document transaction pagination and filter schema
 - 2026-04-13 12:14: refactor(api): edge route handler for rapid ledger calculation
+- 2026-04-13 13:43: feat(alerts): push notification triggers on budget threshold breach
