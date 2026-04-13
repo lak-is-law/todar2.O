@@ -55,3 +55,4 @@
 - 2026-04-13 12:14: refactor(api): edge route handler for rapid ledger calculation
 - 2026-04-13 13:43: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-13 14:12: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-04-13 15:07: test(forecasting): unit tests for predictive burn-rate bounds
