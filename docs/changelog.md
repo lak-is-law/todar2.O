@@ -56,3 +56,4 @@
 - 2026-04-13 13:43: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-13 14:12: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-04-13 15:07: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-04-13 16:16: fix(db): optimize monthly budget aggregation query
