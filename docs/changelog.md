@@ -57,3 +57,4 @@
 - 2026-04-13 14:12: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-04-13 15:07: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-13 16:16: fix(db): optimize monthly budget aggregation query
+- 2026-04-13 17:14: feat(analytics): spending vector category breakdowns
