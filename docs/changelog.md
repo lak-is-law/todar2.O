@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-03-03 21:23: fix(db): optimize monthly budget aggregation query
-- 2026-03-08 11:57: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-03-08 12:31: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-03-08 13:25: perf(ledger): batch transaction insert latency optimization
-- 2026-03-08 14:17: refactor(auth): token refresh rotation and session store
-- 2026-03-08 15:37: perf(ledger): batch transaction insert latency optimization
-- 2026-03-08 16:43: docs(api): document transaction pagination and filter schema
-- 2026-03-08 17:20: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-03-08 18:28: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-03-08 19:07: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-03-08 20:06: feat(analytics): spending vector category breakdowns
 - 2026-03-08 21:56: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-04-13 15:07: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-13 16:16: fix(db): optimize monthly budget aggregation query
 - 2026-04-13 17:14: feat(analytics): spending vector category breakdowns
+- 2026-04-13 18:38: refactor(api): edge route handler for rapid ledger calculation
