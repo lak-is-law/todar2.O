@@ -51,3 +51,4 @@
 - 2026-04-09 18:21: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-09 19:56: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-04-13 10:27: feat(recurring): automated subscription cadence detection algorithm
+- 2026-04-13 11:05: docs(api): document transaction pagination and filter schema
