@@ -50,3 +50,4 @@
 - 2026-04-09 13:29: refactor(auth): token refresh rotation and session store
 - 2026-04-09 18:21: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-09 19:56: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-04-13 10:27: feat(recurring): automated subscription cadence detection algorithm
