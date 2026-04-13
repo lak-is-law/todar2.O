@@ -50,3 +50,4 @@
 - 2026-04-13 16:16: fix(db): optimize monthly budget aggregation query
 - 2026-04-13 17:14: feat(analytics): spending vector category breakdowns
 - 2026-04-13 18:38: refactor(api): edge route handler for rapid ledger calculation
+- 2026-04-13 19:48: feat(forecasting): exponential smoothing pipeline for monthly burn
