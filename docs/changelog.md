@@ -56,3 +56,4 @@
 - 2026-04-13 22:39: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-04-14 13:07: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-14 14:36: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-04-14 16:14: feat(recurring): automated subscription cadence detection algorithm
