@@ -56,3 +56,4 @@
 - 2026-04-21 17:50: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-04-21 18:16: feat(recurring): automated subscription cadence detection algorithm
 - 2026-04-21 19:16: feat(analytics): spending vector category breakdowns
+- 2026-04-21 20:17: feat(recurring): automated subscription cadence detection algorithm
