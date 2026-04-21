@@ -54,3 +54,4 @@
 - 2026-04-21 10:19: refactor(auth): token refresh rotation and session store
 - 2026-04-21 15:11: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-21 17:50: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-04-21 18:16: feat(recurring): automated subscription cadence detection algorithm
