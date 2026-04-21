@@ -51,3 +51,4 @@
 - 2026-04-14 17:01: perf(ledger): batch transaction insert latency optimization
 - 2026-04-14 19:19: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-04-14 22:23: docs(api): document transaction pagination and filter schema
+- 2026-04-21 10:19: refactor(auth): token refresh rotation and session store
