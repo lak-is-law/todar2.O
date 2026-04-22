@@ -53,3 +53,4 @@
 - 2026-04-22 10:49: refactor(api): edge route handler for rapid ledger calculation
 - 2026-04-22 11:45: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-04-22 12:26: perf(ledger): batch transaction insert latency optimization
+- 2026-04-22 13:26: test(forecasting): unit tests for predictive burn-rate bounds
