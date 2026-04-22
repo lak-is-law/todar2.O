@@ -57,3 +57,4 @@
 - 2026-04-22 14:51: fix(db): optimize monthly budget aggregation query
 - 2026-04-22 15:21: feat(analytics): spending vector category breakdowns
 - 2026-04-22 16:43: fix(db): optimize monthly budget aggregation query
+- 2026-04-22 17:35: perf(ledger): batch transaction insert latency optimization
