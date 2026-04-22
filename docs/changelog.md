@@ -55,3 +55,4 @@
 - 2026-04-22 12:26: perf(ledger): batch transaction insert latency optimization
 - 2026-04-22 13:26: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-22 14:51: fix(db): optimize monthly budget aggregation query
+- 2026-04-22 15:21: feat(analytics): spending vector category breakdowns
