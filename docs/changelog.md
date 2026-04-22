@@ -54,3 +54,4 @@
 - 2026-04-22 11:45: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-04-22 12:26: perf(ledger): batch transaction insert latency optimization
 - 2026-04-22 13:26: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-04-22 14:51: fix(db): optimize monthly budget aggregation query
