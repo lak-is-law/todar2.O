@@ -52,3 +52,4 @@
 - 2026-04-22 18:26: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-04-22 19:12: fix(db): optimize monthly budget aggregation query
 - 2026-04-22 20:41: feat(alerts): push notification triggers on budget threshold breach
+- 2026-04-22 21:39: docs(api): document transaction pagination and filter schema
