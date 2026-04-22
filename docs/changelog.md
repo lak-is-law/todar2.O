@@ -50,3 +50,4 @@
 - 2026-04-22 16:43: fix(db): optimize monthly budget aggregation query
 - 2026-04-22 17:35: perf(ledger): batch transaction insert latency optimization
 - 2026-04-22 18:26: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-04-22 19:12: fix(db): optimize monthly budget aggregation query
