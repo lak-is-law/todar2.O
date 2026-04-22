@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-03-23 14:06: feat(analytics): spending vector category breakdowns
-- 2026-03-23 15:34: refactor(auth): token refresh rotation and session store
-- 2026-03-23 18:28: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-03-23 19:03: perf(ledger): batch transaction insert latency optimization
-- 2026-03-23 20:25: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-03-23 21:33: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-03-23 22:33: feat(recurring): automated subscription cadence detection algorithm
-- 2026-03-26 10:44: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-03-26 20:56: fix(db): optimize monthly budget aggregation query
 - 2026-03-30 11:19: refactor(auth): token refresh rotation and session store
 - 2026-03-30 12:10: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-03-30 15:29: feat(analytics): spending vector category breakdowns
@@ -58,3 +49,4 @@
 - 2026-04-22 15:21: feat(analytics): spending vector category breakdowns
 - 2026-04-22 16:43: fix(db): optimize monthly budget aggregation query
 - 2026-04-22 17:35: perf(ledger): batch transaction insert latency optimization
+- 2026-04-22 18:26: fix(categorization): rule-based fallback when ML tag confidence is low
