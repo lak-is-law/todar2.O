@@ -57,3 +57,4 @@
 - 2026-04-26 12:41: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-04-26 13:33: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-26 14:06: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-04-26 16:37: perf(ledger): batch transaction insert latency optimization
