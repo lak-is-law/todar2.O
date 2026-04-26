@@ -54,3 +54,4 @@
 - 2026-04-22 20:41: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-22 21:39: docs(api): document transaction pagination and filter schema
 - 2026-04-26 10:04: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-04-26 12:41: fix(categorization): rule-based fallback when ML tag confidence is low
