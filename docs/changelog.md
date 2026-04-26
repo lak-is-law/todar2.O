@@ -53,3 +53,4 @@
 - 2026-04-22 19:12: fix(db): optimize monthly budget aggregation query
 - 2026-04-22 20:41: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-22 21:39: docs(api): document transaction pagination and filter schema
+- 2026-04-26 10:04: perf(cache): Redis caching layer for monthly expense summaries
