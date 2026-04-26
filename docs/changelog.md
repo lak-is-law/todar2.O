@@ -53,3 +53,4 @@
 - 2026-04-26 18:38: feat(export): CSV ledger export with localized currency format
 - 2026-04-26 19:53: docs(api): document transaction pagination and filter schema
 - 2026-04-26 20:52: feat(recurring): automated subscription cadence detection algorithm
+- 2026-04-26 21:15: feat(ui): responsive budget breakdown charts with Tailwind
