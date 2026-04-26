@@ -51,3 +51,4 @@
 - 2026-04-26 16:37: perf(ledger): batch transaction insert latency optimization
 - 2026-04-26 17:22: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-26 18:38: feat(export): CSV ledger export with localized currency format
+- 2026-04-26 19:53: docs(api): document transaction pagination and filter schema
