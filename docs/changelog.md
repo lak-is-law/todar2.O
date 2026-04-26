@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-03-30 11:19: refactor(auth): token refresh rotation and session store
-- 2026-03-30 12:10: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-03-30 15:29: feat(analytics): spending vector category breakdowns
-- 2026-03-30 19:00: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-03-30 20:38: feat(export): CSV ledger export with localized currency format
-- 2026-04-05 11:37: feat(alerts): push notification triggers on budget threshold breach
-- 2026-04-05 18:36: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-04-05 19:13: refactor(auth): token refresh rotation and session store
-- 2026-04-05 20:20: perf(ledger): batch transaction insert latency optimization
 - 2026-04-08 20:43: refactor(auth): token refresh rotation and session store
 - 2026-04-09 11:53: docs(api): document transaction pagination and filter schema
 - 2026-04-09 13:29: refactor(auth): token refresh rotation and session store
@@ -58,3 +49,4 @@
 - 2026-04-26 13:33: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-26 14:06: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-04-26 16:37: perf(ledger): batch transaction insert latency optimization
+- 2026-04-26 17:22: test(forecasting): unit tests for predictive burn-rate bounds
