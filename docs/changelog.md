@@ -50,3 +50,4 @@
 - 2026-04-26 14:06: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-04-26 16:37: perf(ledger): batch transaction insert latency optimization
 - 2026-04-26 17:22: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-04-26 18:38: feat(export): CSV ledger export with localized currency format
