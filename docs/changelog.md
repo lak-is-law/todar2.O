@@ -54,3 +54,4 @@
 - 2026-04-26 19:53: docs(api): document transaction pagination and filter schema
 - 2026-04-26 20:52: feat(recurring): automated subscription cadence detection algorithm
 - 2026-04-26 21:15: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-04-26 22:41: refactor(auth): token refresh rotation and session store
