@@ -57,3 +57,4 @@
 - 2026-04-26 22:41: refactor(auth): token refresh rotation and session store
 - 2026-04-28 12:43: perf(ledger): batch transaction insert latency optimization
 - 2026-04-28 13:29: fix(db): optimize monthly budget aggregation query
+- 2026-04-28 16:35: feat(analytics): spending vector category breakdowns
