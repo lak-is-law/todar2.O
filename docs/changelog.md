@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-04-08 20:43: refactor(auth): token refresh rotation and session store
-- 2026-04-09 11:53: docs(api): document transaction pagination and filter schema
-- 2026-04-09 13:29: refactor(auth): token refresh rotation and session store
-- 2026-04-09 18:21: feat(alerts): push notification triggers on budget threshold breach
-- 2026-04-09 19:56: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-04-13 10:27: feat(recurring): automated subscription cadence detection algorithm
-- 2026-04-13 11:05: docs(api): document transaction pagination and filter schema
-- 2026-04-13 12:14: refactor(api): edge route handler for rapid ledger calculation
-- 2026-04-13 13:43: feat(alerts): push notification triggers on budget threshold breach
 - 2026-04-13 14:12: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-04-13 15:07: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-13 16:16: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-04-28 12:43: perf(ledger): batch transaction insert latency optimization
 - 2026-04-28 13:29: fix(db): optimize monthly budget aggregation query
 - 2026-04-28 16:35: feat(analytics): spending vector category breakdowns
+- 2026-04-28 18:19: feat(analytics): spending vector category breakdowns
