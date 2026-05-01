@@ -53,3 +53,4 @@
 - 2026-04-28 21:02: docs(api): document transaction pagination and filter schema
 - 2026-04-28 22:31: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-01 10:19: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-05-01 11:36: feat(forecasting): exponential smoothing pipeline for monthly burn
