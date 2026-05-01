@@ -55,3 +55,4 @@
 - 2026-05-01 10:19: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-05-01 11:36: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-05-01 12:11: fix(db): optimize monthly budget aggregation query
+- 2026-05-01 13:09: docs(api): document transaction pagination and filter schema
