@@ -57,3 +57,4 @@
 - 2026-05-01 12:11: fix(db): optimize monthly budget aggregation query
 - 2026-05-01 13:09: docs(api): document transaction pagination and filter schema
 - 2026-05-01 14:33: fix(db): optimize monthly budget aggregation query
+- 2026-05-01 15:32: refactor(auth): token refresh rotation and session store
