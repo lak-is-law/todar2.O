@@ -52,3 +52,4 @@
 - 2026-04-28 18:19: feat(analytics): spending vector category breakdowns
 - 2026-04-28 21:02: docs(api): document transaction pagination and filter schema
 - 2026-04-28 22:31: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-05-01 10:19: perf(cache): Redis caching layer for monthly expense summaries
