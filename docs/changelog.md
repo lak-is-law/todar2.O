@@ -56,3 +56,4 @@
 - 2026-05-01 20:46: feat(analytics): spending vector category breakdowns
 - 2026-05-01 21:37: feat(export): CSV ledger export with localized currency format
 - 2026-05-01 22:02: feat(recurring): automated subscription cadence detection algorithm
+- 2026-05-05 17:51: feat(forecasting): exponential smoothing pipeline for monthly burn
