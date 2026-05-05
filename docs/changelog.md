@@ -57,3 +57,4 @@
 - 2026-05-01 21:37: feat(export): CSV ledger export with localized currency format
 - 2026-05-01 22:02: feat(recurring): automated subscription cadence detection algorithm
 - 2026-05-05 17:51: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-05-05 21:10: refactor(auth): token refresh rotation and session store
