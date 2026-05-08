@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-04-22 14:51: fix(db): optimize monthly budget aggregation query
-- 2026-04-22 15:21: feat(analytics): spending vector category breakdowns
-- 2026-04-22 16:43: fix(db): optimize monthly budget aggregation query
-- 2026-04-22 17:35: perf(ledger): batch transaction insert latency optimization
-- 2026-04-22 18:26: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-04-22 19:12: fix(db): optimize monthly budget aggregation query
-- 2026-04-22 20:41: feat(alerts): push notification triggers on budget threshold breach
-- 2026-04-22 21:39: docs(api): document transaction pagination and filter schema
-- 2026-04-26 10:04: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-04-26 12:41: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-04-26 13:33: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-04-26 14:06: feat(ui): responsive budget breakdown charts with Tailwind
@@ -58,3 +49,4 @@
 - 2026-05-08 19:27: feat(analytics): spending vector category breakdowns
 - 2026-05-08 20:22: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-05-08 21:55: fix(db): optimize monthly budget aggregation query
+- 2026-05-08 22:16: test(forecasting): unit tests for predictive burn-rate bounds
