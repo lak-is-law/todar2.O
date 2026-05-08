@@ -54,3 +54,4 @@
 - 2026-05-08 15:14: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-05-08 16:03: feat(recurring): automated subscription cadence detection algorithm
 - 2026-05-08 17:31: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-05-08 18:31: docs(api): document transaction pagination and filter schema
