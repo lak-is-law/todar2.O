@@ -57,3 +57,4 @@
 - 2026-05-08 18:31: docs(api): document transaction pagination and filter schema
 - 2026-05-08 19:27: feat(analytics): spending vector category breakdowns
 - 2026-05-08 20:22: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-05-08 21:55: fix(db): optimize monthly budget aggregation query
