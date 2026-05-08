@@ -51,3 +51,4 @@
 - 2026-05-05 21:10: refactor(auth): token refresh rotation and session store
 - 2026-05-05 22:36: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-05-08 10:11: feat(export): CSV ledger export with localized currency format
+- 2026-05-08 10:47: feat(ui): responsive budget breakdown charts with Tailwind
