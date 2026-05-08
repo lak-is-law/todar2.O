@@ -54,3 +54,4 @@
 - 2026-05-08 10:47: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-08 11:25: docs(api): document transaction pagination and filter schema
 - 2026-05-08 11:26: docs(api): document transaction pagination and filter schema
+- 2026-05-08 12:27: feat(analytics): spending vector category breakdowns
