@@ -56,3 +56,4 @@
 - 2026-05-08 11:26: docs(api): document transaction pagination and filter schema
 - 2026-05-08 12:27: feat(analytics): spending vector category breakdowns
 - 2026-05-08 12:54: refactor(auth): token refresh rotation and session store
+- 2026-05-08 13:32: fix(categorization): rule-based fallback when ML tag confidence is low
