@@ -51,3 +51,4 @@
 - 2026-05-08 13:43: refactor(auth): token refresh rotation and session store
 - 2026-05-08 14:28: feat(alerts): push notification triggers on budget threshold breach
 - 2026-05-08 14:42: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-05-08 15:14: refactor(schema): add foreign key indexes on ledger transactions
