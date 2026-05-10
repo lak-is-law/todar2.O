@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-04-26 12:41: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-04-26 13:33: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-04-26 14:06: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-04-26 16:37: perf(ledger): batch transaction insert latency optimization
-- 2026-04-26 17:22: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-04-26 18:38: feat(export): CSV ledger export with localized currency format
-- 2026-04-26 19:53: docs(api): document transaction pagination and filter schema
-- 2026-04-26 20:52: feat(recurring): automated subscription cadence detection algorithm
-- 2026-04-26 21:15: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-04-26 22:41: refactor(auth): token refresh rotation and session store
 - 2026-04-28 12:43: perf(ledger): batch transaction insert latency optimization
 - 2026-04-28 13:29: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-05-10 12:45: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-05-10 13:27: feat(analytics): spending vector category breakdowns
 - 2026-05-10 13:44: refactor(api): edge route handler for rapid ledger calculation
+- 2026-05-10 14:40: feat(recurring): automated subscription cadence detection algorithm
