@@ -57,3 +57,4 @@
 - 2026-05-10 17:45: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-05-10 18:58: feat(recurring): automated subscription cadence detection algorithm
 - 2026-05-10 19:12: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-05-10 20:11: test(forecasting): unit tests for predictive burn-rate bounds
