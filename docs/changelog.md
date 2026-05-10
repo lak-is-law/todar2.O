@@ -52,3 +52,4 @@
 - 2026-05-10 14:40: feat(recurring): automated subscription cadence detection algorithm
 - 2026-05-10 14:48: perf(ledger): batch transaction insert latency optimization
 - 2026-05-10 15:23: fix(db): optimize monthly budget aggregation query
+- 2026-05-10 15:47: feat(forecasting): exponential smoothing pipeline for monthly burn
