@@ -56,3 +56,4 @@
 - 2026-05-10 11:26: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-05-10 12:10: perf(ledger): batch transaction insert latency optimization
 - 2026-05-10 12:45: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-05-10 13:27: feat(analytics): spending vector category breakdowns
