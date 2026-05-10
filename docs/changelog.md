@@ -54,3 +54,4 @@
 - 2026-05-10 15:23: fix(db): optimize monthly budget aggregation query
 - 2026-05-10 15:47: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-05-10 16:47: feat(export): CSV ledger export with localized currency format
+- 2026-05-10 17:45: perf(cache): Redis caching layer for monthly expense summaries
