@@ -50,3 +50,4 @@
 - 2026-05-08 20:22: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-05-08 21:55: fix(db): optimize monthly budget aggregation query
 - 2026-05-08 22:16: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-05-10 10:10: feat(recurring): automated subscription cadence detection algorithm
