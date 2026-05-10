@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-04-26 22:41: refactor(auth): token refresh rotation and session store
-- 2026-04-28 12:43: perf(ledger): batch transaction insert latency optimization
-- 2026-04-28 13:29: fix(db): optimize monthly budget aggregation query
-- 2026-04-28 16:35: feat(analytics): spending vector category breakdowns
-- 2026-04-28 18:19: feat(analytics): spending vector category breakdowns
-- 2026-04-28 21:02: docs(api): document transaction pagination and filter schema
-- 2026-04-28 22:31: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-05-01 10:19: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-05-01 11:36: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-05-01 12:11: fix(db): optimize monthly budget aggregation query
 - 2026-05-01 13:09: docs(api): document transaction pagination and filter schema
 - 2026-05-01 14:33: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-05-10 18:58: feat(recurring): automated subscription cadence detection algorithm
 - 2026-05-10 19:12: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-05-10 20:11: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-05-10 21:01: docs(api): document transaction pagination and filter schema
