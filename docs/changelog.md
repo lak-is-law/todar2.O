@@ -54,3 +54,4 @@
 - 2026-05-15 17:19: docs(api): document transaction pagination and filter schema
 - 2026-05-21 11:30: docs(api): document transaction pagination and filter schema
 - 2026-05-21 13:26: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-05-21 19:53: feat(ui): responsive budget breakdown charts with Tailwind
