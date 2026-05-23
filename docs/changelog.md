@@ -52,3 +52,4 @@
 - 2026-05-23 13:17: fix(db): optimize monthly budget aggregation query
 - 2026-05-23 14:57: refactor(auth): token refresh rotation and session store
 - 2026-05-23 15:09: feat(alerts): push notification triggers on budget threshold breach
+- 2026-05-23 16:39: fix(db): optimize monthly budget aggregation query
