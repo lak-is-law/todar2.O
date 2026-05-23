@@ -56,3 +56,4 @@
 - 2026-05-23 17:51: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-23 18:22: refactor(api): edge route handler for rapid ledger calculation
 - 2026-05-23 19:52: feat(analytics): spending vector category breakdowns
+- 2026-05-23 20:05: perf(cache): Redis caching layer for monthly expense summaries
