@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-01 21:37: feat(export): CSV ledger export with localized currency format
-- 2026-05-01 22:02: feat(recurring): automated subscription cadence detection algorithm
-- 2026-05-05 17:51: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-05-05 21:10: refactor(auth): token refresh rotation and session store
-- 2026-05-05 22:36: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-05-08 10:11: feat(export): CSV ledger export with localized currency format
-- 2026-05-08 10:47: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-05-08 11:25: docs(api): document transaction pagination and filter schema
-- 2026-05-08 11:26: docs(api): document transaction pagination and filter schema
 - 2026-05-08 12:27: feat(analytics): spending vector category breakdowns
 - 2026-05-08 12:54: refactor(auth): token refresh rotation and session store
 - 2026-05-08 13:32: fix(categorization): rule-based fallback when ML tag confidence is low
@@ -58,3 +49,4 @@
 - 2026-05-23 19:52: feat(analytics): spending vector category breakdowns
 - 2026-05-23 20:05: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-05-23 21:28: feat(export): CSV ledger export with localized currency format
+- 2026-05-23 22:34: refactor(auth): token refresh rotation and session store
