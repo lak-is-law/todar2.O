@@ -57,3 +57,4 @@
 - 2026-05-21 19:53: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-21 21:05: fix(db): optimize monthly budget aggregation query
 - 2026-05-23 10:58: fix(db): optimize monthly budget aggregation query
+- 2026-05-23 12:59: feat(export): CSV ledger export with localized currency format
