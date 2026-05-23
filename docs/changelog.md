@@ -54,3 +54,4 @@
 - 2026-05-23 15:09: feat(alerts): push notification triggers on budget threshold breach
 - 2026-05-23 16:39: fix(db): optimize monthly budget aggregation query
 - 2026-05-23 17:51: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-05-23 18:22: refactor(api): edge route handler for rapid ledger calculation
