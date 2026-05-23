@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-01 12:11: fix(db): optimize monthly budget aggregation query
-- 2026-05-01 13:09: docs(api): document transaction pagination and filter schema
-- 2026-05-01 14:33: fix(db): optimize monthly budget aggregation query
-- 2026-05-01 15:32: refactor(auth): token refresh rotation and session store
-- 2026-05-01 16:21: feat(recurring): automated subscription cadence detection algorithm
-- 2026-05-01 17:41: docs(api): document transaction pagination and filter schema
-- 2026-05-01 18:43: feat(analytics): spending vector category breakdowns
-- 2026-05-01 19:22: feat(recurring): automated subscription cadence detection algorithm
-- 2026-05-01 20:46: feat(analytics): spending vector category breakdowns
 - 2026-05-01 21:37: feat(export): CSV ledger export with localized currency format
 - 2026-05-01 22:02: feat(recurring): automated subscription cadence detection algorithm
 - 2026-05-05 17:51: feat(forecasting): exponential smoothing pipeline for monthly burn
@@ -58,3 +49,4 @@
 - 2026-05-21 21:05: fix(db): optimize monthly budget aggregation query
 - 2026-05-23 10:58: fix(db): optimize monthly budget aggregation query
 - 2026-05-23 12:59: feat(export): CSV ledger export with localized currency format
+- 2026-05-23 13:17: fix(db): optimize monthly budget aggregation query
