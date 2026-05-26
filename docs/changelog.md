@@ -50,3 +50,4 @@
 - 2026-05-23 20:05: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-05-23 21:28: feat(export): CSV ledger export with localized currency format
 - 2026-05-23 22:34: refactor(auth): token refresh rotation and session store
+- 2026-05-26 12:25: refactor(schema): add foreign key indexes on ledger transactions
