@@ -56,3 +56,4 @@
 - 2026-05-27 15:35: feat(analytics): spending vector category breakdowns
 - 2026-05-27 19:29: feat(analytics): spending vector category breakdowns
 - 2026-05-27 22:02: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-05-31 10:16: test(forecasting): unit tests for predictive burn-rate bounds
