@@ -50,3 +50,4 @@
 - 2026-05-31 10:16: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-05-31 11:49: refactor(api): edge route handler for rapid ledger calculation
 - 2026-05-31 13:43: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-05-31 16:32: feat(forecasting): exponential smoothing pipeline for monthly burn
