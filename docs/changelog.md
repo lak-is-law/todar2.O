@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-08 12:27: feat(analytics): spending vector category breakdowns
-- 2026-05-08 12:54: refactor(auth): token refresh rotation and session store
-- 2026-05-08 13:32: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-05-08 13:43: refactor(auth): token refresh rotation and session store
-- 2026-05-08 14:28: feat(alerts): push notification triggers on budget threshold breach
-- 2026-05-08 14:42: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-05-08 15:14: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-05-08 16:03: feat(recurring): automated subscription cadence detection algorithm
-- 2026-05-08 17:31: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-05-08 18:31: docs(api): document transaction pagination and filter schema
 - 2026-05-08 19:27: feat(analytics): spending vector category breakdowns
 - 2026-05-08 20:22: fix(categorization): rule-based fallback when ML tag confidence is low
@@ -58,3 +49,4 @@
 - 2026-05-27 22:02: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-31 10:16: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-05-31 11:49: refactor(api): edge route handler for rapid ledger calculation
+- 2026-05-31 13:43: fix(categorization): rule-based fallback when ML tag confidence is low
