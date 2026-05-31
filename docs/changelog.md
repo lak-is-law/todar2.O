@@ -52,3 +52,4 @@
 - 2026-05-31 13:43: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-05-31 16:32: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-05-31 17:01: docs(api): document transaction pagination and filter schema
+- 2026-05-31 18:48: docs(api): document transaction pagination and filter schema
