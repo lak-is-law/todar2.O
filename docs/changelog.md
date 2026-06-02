@@ -50,3 +50,4 @@
 - 2026-06-02 16:44: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-06-02 17:44: refactor(api): edge route handler for rapid ledger calculation
 - 2026-06-02 21:53: fix(db): optimize monthly budget aggregation query
+- 2026-06-02 22:51: refactor(auth): token refresh rotation and session store
