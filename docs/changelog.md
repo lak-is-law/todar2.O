@@ -57,3 +57,4 @@
 - 2026-06-02 13:30: feat(alerts): push notification triggers on budget threshold breach
 - 2026-06-02 15:34: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-06-02 16:44: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-06-02 17:44: refactor(api): edge route handler for rapid ledger calculation
