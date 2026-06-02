@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-08 18:31: docs(api): document transaction pagination and filter schema
-- 2026-05-08 19:27: feat(analytics): spending vector category breakdowns
-- 2026-05-08 20:22: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-05-08 21:55: fix(db): optimize monthly budget aggregation query
-- 2026-05-08 22:16: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-05-10 10:10: feat(recurring): automated subscription cadence detection algorithm
-- 2026-05-10 10:59: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-05-10 11:24: refactor(api): edge route handler for rapid ledger calculation
-- 2026-05-10 11:26: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-05-10 12:10: perf(ledger): batch transaction insert latency optimization
 - 2026-05-10 12:45: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-05-10 13:27: feat(analytics): spending vector category breakdowns
@@ -58,3 +49,4 @@
 - 2026-06-02 15:34: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-06-02 16:44: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-06-02 17:44: refactor(api): edge route handler for rapid ledger calculation
+- 2026-06-02 21:53: fix(db): optimize monthly budget aggregation query
