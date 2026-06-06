@@ -57,3 +57,4 @@
 - 2026-06-06 14:08: docs(api): document transaction pagination and filter schema
 - 2026-06-06 15:02: feat(alerts): push notification triggers on budget threshold breach
 - 2026-06-06 16:50: feat(analytics): spending vector category breakdowns
+- 2026-06-06 17:03: refactor(schema): add foreign key indexes on ledger transactions
