@@ -56,3 +56,4 @@
 - 2026-06-06 13:48: feat(alerts): push notification triggers on budget threshold breach
 - 2026-06-06 14:08: docs(api): document transaction pagination and filter schema
 - 2026-06-06 15:02: feat(alerts): push notification triggers on budget threshold breach
+- 2026-06-06 16:50: feat(analytics): spending vector category breakdowns
