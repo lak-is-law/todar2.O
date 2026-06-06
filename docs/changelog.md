@@ -52,3 +52,4 @@
 - 2026-06-02 21:53: fix(db): optimize monthly budget aggregation query
 - 2026-06-02 22:51: refactor(auth): token refresh rotation and session store
 - 2026-06-06 10:24: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-06-06 11:58: refactor(auth): token refresh rotation and session store
