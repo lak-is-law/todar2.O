@@ -54,3 +54,4 @@
 - 2026-06-06 10:24: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-06-06 11:58: refactor(auth): token refresh rotation and session store
 - 2026-06-06 13:48: feat(alerts): push notification triggers on budget threshold breach
+- 2026-06-06 14:08: docs(api): document transaction pagination and filter schema
