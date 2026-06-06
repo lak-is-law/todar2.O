@@ -51,3 +51,4 @@
 - 2026-06-06 17:03: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-06-06 18:34: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-06-06 19:54: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-06-06 20:08: test(forecasting): unit tests for predictive burn-rate bounds
