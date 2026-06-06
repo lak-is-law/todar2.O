@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-10 12:10: perf(ledger): batch transaction insert latency optimization
-- 2026-05-10 12:45: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-05-10 13:27: feat(analytics): spending vector category breakdowns
-- 2026-05-10 13:44: refactor(api): edge route handler for rapid ledger calculation
-- 2026-05-10 14:40: feat(recurring): automated subscription cadence detection algorithm
-- 2026-05-10 14:48: perf(ledger): batch transaction insert latency optimization
-- 2026-05-10 15:23: fix(db): optimize monthly budget aggregation query
-- 2026-05-10 15:47: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-05-10 16:47: feat(export): CSV ledger export with localized currency format
 - 2026-05-10 17:45: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-05-10 18:58: feat(recurring): automated subscription cadence detection algorithm
 - 2026-05-10 19:12: feat(forecasting): exponential smoothing pipeline for monthly burn
@@ -58,3 +49,4 @@
 - 2026-06-06 15:02: feat(alerts): push notification triggers on budget threshold breach
 - 2026-06-06 16:50: feat(analytics): spending vector category breakdowns
 - 2026-06-06 17:03: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-06-06 18:34: feat(forecasting): exponential smoothing pipeline for monthly burn
