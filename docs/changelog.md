@@ -53,3 +53,4 @@
 - 2026-06-06 19:54: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-06-06 20:08: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-06-06 21:22: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-06-06 22:17: refactor(api): edge route handler for rapid ledger calculation
