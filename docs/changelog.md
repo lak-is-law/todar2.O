@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-10 17:45: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-05-10 18:58: feat(recurring): automated subscription cadence detection algorithm
-- 2026-05-10 19:12: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-05-10 20:11: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-05-10 21:01: docs(api): document transaction pagination and filter schema
-- 2026-05-10 22:27: fix(db): optimize monthly budget aggregation query
-- 2026-05-15 17:19: docs(api): document transaction pagination and filter schema
-- 2026-05-21 11:30: docs(api): document transaction pagination and filter schema
-- 2026-05-21 13:26: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-21 19:53: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-21 21:05: fix(db): optimize monthly budget aggregation query
 - 2026-05-23 10:58: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-06-08 12:22: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-06-08 18:09: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-06-08 20:33: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-06-08 21:03: feat(forecasting): exponential smoothing pipeline for monthly burn
