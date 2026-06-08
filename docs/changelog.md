@@ -50,3 +50,4 @@
 - 2026-06-08 18:09: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-06-08 20:33: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-06-08 21:03: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-06-08 22:35: feat(analytics): spending vector category breakdowns
