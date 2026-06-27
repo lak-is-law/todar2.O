@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-21 19:53: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-05-21 21:05: fix(db): optimize monthly budget aggregation query
-- 2026-05-23 10:58: fix(db): optimize monthly budget aggregation query
-- 2026-05-23 12:59: feat(export): CSV ledger export with localized currency format
-- 2026-05-23 13:17: fix(db): optimize monthly budget aggregation query
-- 2026-05-23 14:57: refactor(auth): token refresh rotation and session store
-- 2026-05-23 15:09: feat(alerts): push notification triggers on budget threshold breach
-- 2026-05-23 16:39: fix(db): optimize monthly budget aggregation query
-- 2026-05-23 17:51: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-23 18:22: refactor(api): edge route handler for rapid ledger calculation
 - 2026-05-23 19:52: feat(analytics): spending vector category breakdowns
 - 2026-05-23 20:05: perf(cache): Redis caching layer for monthly expense summaries
@@ -58,3 +49,4 @@
 - 2026-06-27 12:46: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-06-27 12:54: refactor(auth): token refresh rotation and session store
 - 2026-06-27 13:06: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-06-27 13:44: feat(analytics): spending vector category breakdowns
