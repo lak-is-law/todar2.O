@@ -54,3 +54,4 @@
 - 2026-06-27 15:48: refactor(api): edge route handler for rapid ledger calculation
 - 2026-06-27 16:54: refactor(api): edge route handler for rapid ledger calculation
 - 2026-06-27 17:54: docs(api): document transaction pagination and filter schema
+- 2026-06-27 18:18: refactor(schema): add foreign key indexes on ledger transactions
