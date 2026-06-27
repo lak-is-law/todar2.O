@@ -53,3 +53,4 @@
 - 2026-06-08 22:35: feat(analytics): spending vector category breakdowns
 - 2026-06-27 10:05: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-06-27 10:18: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-06-27 11:21: test(forecasting): unit tests for predictive burn-rate bounds
