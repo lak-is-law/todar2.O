@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-05-23 18:22: refactor(api): edge route handler for rapid ledger calculation
-- 2026-05-23 19:52: feat(analytics): spending vector category breakdowns
-- 2026-05-23 20:05: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-05-23 21:28: feat(export): CSV ledger export with localized currency format
-- 2026-05-23 22:34: refactor(auth): token refresh rotation and session store
-- 2026-05-26 12:25: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-05-26 14:33: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-05-27 11:20: refactor(auth): token refresh rotation and session store
-- 2026-05-27 15:35: feat(analytics): spending vector category breakdowns
 - 2026-05-27 19:29: feat(analytics): spending vector category breakdowns
 - 2026-05-27 22:02: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-05-31 10:16: test(forecasting): unit tests for predictive burn-rate bounds
@@ -58,3 +49,4 @@
 - 2026-06-27 19:11: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-06-27 20:17: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-06-27 21:15: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-06-27 22:28: feat(alerts): push notification triggers on budget threshold breach
