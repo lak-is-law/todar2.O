@@ -53,3 +53,4 @@
 - 2026-06-27 14:39: feat(recurring): automated subscription cadence detection algorithm
 - 2026-06-27 15:48: refactor(api): edge route handler for rapid ledger calculation
 - 2026-06-27 16:54: refactor(api): edge route handler for rapid ledger calculation
+- 2026-06-27 17:54: docs(api): document transaction pagination and filter schema
