@@ -56,3 +56,4 @@
 - 2026-06-27 11:21: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-06-27 11:26: refactor(api): edge route handler for rapid ledger calculation
 - 2026-06-27 12:46: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-06-27 12:54: refactor(auth): token refresh rotation and session store
