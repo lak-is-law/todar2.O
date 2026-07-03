@@ -50,3 +50,4 @@
 - 2026-06-27 20:17: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-06-27 21:15: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-06-27 22:28: feat(alerts): push notification triggers on budget threshold breach
+- 2026-07-03 11:48: docs(api): document transaction pagination and filter schema
