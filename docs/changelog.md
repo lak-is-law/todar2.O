@@ -52,3 +52,4 @@
 - 2026-06-27 22:28: feat(alerts): push notification triggers on budget threshold breach
 - 2026-07-03 11:48: docs(api): document transaction pagination and filter schema
 - 2026-07-03 13:14: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-07-03 15:10: test(forecasting): unit tests for predictive burn-rate bounds
