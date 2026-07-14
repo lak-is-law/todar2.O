@@ -51,3 +51,4 @@
 - 2026-07-14 11:30: feat(export): CSV ledger export with localized currency format
 - 2026-07-14 11:37: fix(db): optimize monthly budget aggregation query
 - 2026-07-14 12:11: fix(db): optimize monthly budget aggregation query
+- 2026-07-14 12:58: refactor(schema): add foreign key indexes on ledger transactions
