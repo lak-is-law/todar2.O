@@ -57,3 +57,4 @@
 - 2026-07-14 14:20: perf(ledger): batch transaction insert latency optimization
 - 2026-07-14 14:29: feat(alerts): push notification triggers on budget threshold breach
 - 2026-07-14 15:10: fix(db): optimize monthly budget aggregation query
+- 2026-07-14 16:25: fix(db): optimize monthly budget aggregation query
