@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-06-02 13:30: feat(alerts): push notification triggers on budget threshold breach
-- 2026-06-02 15:34: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-06-02 16:44: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-06-02 17:44: refactor(api): edge route handler for rapid ledger calculation
-- 2026-06-02 21:53: fix(db): optimize monthly budget aggregation query
-- 2026-06-02 22:51: refactor(auth): token refresh rotation and session store
-- 2026-06-06 10:24: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-06-06 11:58: refactor(auth): token refresh rotation and session store
-- 2026-06-06 13:48: feat(alerts): push notification triggers on budget threshold breach
 - 2026-06-06 14:08: docs(api): document transaction pagination and filter schema
 - 2026-06-06 15:02: feat(alerts): push notification triggers on budget threshold breach
 - 2026-06-06 16:50: feat(analytics): spending vector category breakdowns
@@ -58,3 +49,4 @@
 - 2026-07-14 14:29: feat(alerts): push notification triggers on budget threshold breach
 - 2026-07-14 15:10: fix(db): optimize monthly budget aggregation query
 - 2026-07-14 16:25: fix(db): optimize monthly budget aggregation query
+- 2026-07-14 17:28: refactor(schema): add foreign key indexes on ledger transactions
