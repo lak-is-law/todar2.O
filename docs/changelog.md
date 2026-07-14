@@ -56,3 +56,4 @@
 - 2026-07-14 13:59: refactor(auth): token refresh rotation and session store
 - 2026-07-14 14:20: perf(ledger): batch transaction insert latency optimization
 - 2026-07-14 14:29: feat(alerts): push notification triggers on budget threshold breach
+- 2026-07-14 15:10: fix(db): optimize monthly budget aggregation query
