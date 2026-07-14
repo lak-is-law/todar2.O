@@ -55,3 +55,4 @@
 - 2026-07-03 15:10: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-07-03 18:52: refactor(api): edge route handler for rapid ledger calculation
 - 2026-07-03 20:52: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-07-14 10:26: test(forecasting): unit tests for predictive burn-rate bounds
