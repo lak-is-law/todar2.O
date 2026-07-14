@@ -53,3 +53,4 @@
 - 2026-07-14 18:03: docs(api): document transaction pagination and filter schema
 - 2026-07-14 19:02: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-07-14 20:59: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-07-14 21:49: feat(recurring): automated subscription cadence detection algorithm
