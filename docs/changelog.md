@@ -51,3 +51,4 @@
 - 2026-07-14 16:25: fix(db): optimize monthly budget aggregation query
 - 2026-07-14 17:28: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-07-14 18:03: docs(api): document transaction pagination and filter schema
+- 2026-07-14 19:02: perf(cache): Redis caching layer for monthly expense summaries
