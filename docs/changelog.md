@@ -50,3 +50,4 @@
 - 2026-07-14 15:10: fix(db): optimize monthly budget aggregation query
 - 2026-07-14 16:25: fix(db): optimize monthly budget aggregation query
 - 2026-07-14 17:28: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-07-14 18:03: docs(api): document transaction pagination and filter schema
