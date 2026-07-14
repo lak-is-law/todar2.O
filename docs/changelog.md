@@ -50,3 +50,4 @@
 - 2026-07-14 10:45: feat(alerts): push notification triggers on budget threshold breach
 - 2026-07-14 11:30: feat(export): CSV ledger export with localized currency format
 - 2026-07-14 11:37: fix(db): optimize monthly budget aggregation query
+- 2026-07-14 12:11: fix(db): optimize monthly budget aggregation query
