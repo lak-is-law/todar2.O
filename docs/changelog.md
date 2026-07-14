@@ -57,3 +57,4 @@
 - 2026-07-03 20:52: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-07-14 10:26: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-07-14 10:45: feat(alerts): push notification triggers on budget threshold breach
+- 2026-07-14 11:30: feat(export): CSV ledger export with localized currency format
