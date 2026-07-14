@@ -52,3 +52,4 @@
 - 2026-07-14 17:28: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-07-14 18:03: docs(api): document transaction pagination and filter schema
 - 2026-07-14 19:02: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-07-14 20:59: fix(categorization): rule-based fallback when ML tag confidence is low
