@@ -54,3 +54,4 @@
 - 2026-07-19 18:29: refactor(auth): token refresh rotation and session store
 - 2026-07-19 19:58: feat(export): CSV ledger export with localized currency format
 - 2026-07-19 20:55: docs(api): document transaction pagination and filter schema
+- 2026-07-20 13:18: feat(export): CSV ledger export with localized currency format
