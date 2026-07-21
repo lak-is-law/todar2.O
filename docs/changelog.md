@@ -56,3 +56,4 @@
 - 2026-07-19 20:55: docs(api): document transaction pagination and filter schema
 - 2026-07-20 13:18: feat(export): CSV ledger export with localized currency format
 - 2026-07-20 16:16: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-07-21 10:51: feat(analytics): spending vector category breakdowns
