@@ -57,3 +57,4 @@
 - 2026-07-20 13:18: feat(export): CSV ledger export with localized currency format
 - 2026-07-20 16:16: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-07-21 10:51: feat(analytics): spending vector category breakdowns
+- 2026-07-21 12:59: fix(db): optimize monthly budget aggregation query
