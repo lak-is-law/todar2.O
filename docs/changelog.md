@@ -50,3 +50,4 @@
 - 2026-07-21 10:51: feat(analytics): spending vector category breakdowns
 - 2026-07-21 12:59: fix(db): optimize monthly budget aggregation query
 - 2026-07-21 17:55: feat(alerts): push notification triggers on budget threshold breach
+- 2026-07-21 18:50: feat(ui): responsive budget breakdown charts with Tailwind
