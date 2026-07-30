@@ -53,3 +53,4 @@
 - 2026-07-21 18:50: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-07-21 19:14: refactor(auth): token refresh rotation and session store
 - 2026-07-30 10:09: feat(analytics): spending vector category breakdowns
+- 2026-07-30 12:52: refactor(auth): token refresh rotation and session store
