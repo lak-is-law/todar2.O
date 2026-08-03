@@ -55,3 +55,4 @@
 - 2026-07-30 22:22: refactor(api): edge route handler for rapid ledger calculation
 - 2026-08-03 13:52: feat(export): CSV ledger export with localized currency format
 - 2026-08-03 17:36: refactor(api): edge route handler for rapid ledger calculation
+- 2026-08-03 20:31: perf(ledger): batch transaction insert latency optimization
