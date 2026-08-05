@@ -51,3 +51,4 @@
 - 2026-08-05 10:52: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-08-05 11:25: docs(api): document transaction pagination and filter schema
 - 2026-08-05 12:20: docs(api): document transaction pagination and filter schema
+- 2026-08-05 14:05: refactor(auth): token refresh rotation and session store
