@@ -57,3 +57,4 @@
 - 2026-08-05 18:45: docs(api): document transaction pagination and filter schema
 - 2026-08-05 19:34: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-05 20:20: perf(ledger): batch transaction insert latency optimization
+- 2026-08-05 22:30: fix(categorization): rule-based fallback when ML tag confidence is low
