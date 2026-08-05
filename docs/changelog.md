@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-06-27 18:18: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-06-27 19:11: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-06-27 20:17: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-06-27 21:15: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-06-27 22:28: feat(alerts): push notification triggers on budget threshold breach
-- 2026-07-03 11:48: docs(api): document transaction pagination and filter schema
-- 2026-07-03 13:14: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-07-03 15:10: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-07-03 18:52: refactor(api): edge route handler for rapid ledger calculation
 - 2026-07-03 20:52: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-07-14 10:26: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-07-14 10:45: feat(alerts): push notification triggers on budget threshold breach
@@ -58,3 +49,4 @@
 - 2026-08-03 20:31: perf(ledger): batch transaction insert latency optimization
 - 2026-08-03 22:27: refactor(api): edge route handler for rapid ledger calculation
 - 2026-08-05 10:52: feat(forecasting): exponential smoothing pipeline for monthly burn
+- 2026-08-05 11:25: docs(api): document transaction pagination and filter schema
