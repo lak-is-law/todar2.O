@@ -54,3 +54,4 @@
 - 2026-08-05 14:05: refactor(auth): token refresh rotation and session store
 - 2026-08-05 16:03: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-08-05 17:43: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-08-05 18:45: docs(api): document transaction pagination and filter schema
