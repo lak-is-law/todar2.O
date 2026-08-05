@@ -57,3 +57,4 @@
 - 2026-08-03 17:36: refactor(api): edge route handler for rapid ledger calculation
 - 2026-08-03 20:31: perf(ledger): batch transaction insert latency optimization
 - 2026-08-03 22:27: refactor(api): edge route handler for rapid ledger calculation
+- 2026-08-05 10:52: feat(forecasting): exponential smoothing pipeline for monthly burn
