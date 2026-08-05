@@ -55,3 +55,4 @@
 - 2026-08-05 16:03: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-08-05 17:43: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-05 18:45: docs(api): document transaction pagination and filter schema
+- 2026-08-05 19:34: refactor(schema): add foreign key indexes on ledger transactions
