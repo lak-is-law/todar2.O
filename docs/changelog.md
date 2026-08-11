@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-07-03 20:52: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-07-14 10:26: test(forecasting): unit tests for predictive burn-rate bounds
-- 2026-07-14 10:45: feat(alerts): push notification triggers on budget threshold breach
-- 2026-07-14 11:30: feat(export): CSV ledger export with localized currency format
-- 2026-07-14 11:37: fix(db): optimize monthly budget aggregation query
-- 2026-07-14 12:11: fix(db): optimize monthly budget aggregation query
-- 2026-07-14 12:58: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-07-14 13:54: refactor(api): edge route handler for rapid ledger calculation
-- 2026-07-14 13:59: refactor(auth): token refresh rotation and session store
 - 2026-07-14 14:20: perf(ledger): batch transaction insert latency optimization
 - 2026-07-14 14:29: feat(alerts): push notification triggers on budget threshold breach
 - 2026-07-14 15:10: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-08-05 19:34: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-05 20:20: perf(ledger): batch transaction insert latency optimization
 - 2026-08-05 22:30: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-08-11 12:46: refactor(schema): add foreign key indexes on ledger transactions
