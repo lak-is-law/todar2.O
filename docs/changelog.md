@@ -53,3 +53,4 @@
 - 2026-08-11 15:22: fix(db): optimize monthly budget aggregation query
 - 2026-08-11 16:59: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-08-11 17:21: refactor(api): edge route handler for rapid ledger calculation
+- 2026-08-11 20:49: feat(analytics): spending vector category breakdowns
