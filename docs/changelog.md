@@ -50,3 +50,4 @@
 - 2026-08-05 20:20: perf(ledger): batch transaction insert latency optimization
 - 2026-08-05 22:30: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-08-11 12:46: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-08-11 15:22: fix(db): optimize monthly budget aggregation query
