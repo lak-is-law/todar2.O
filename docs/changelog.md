@@ -52,3 +52,4 @@
 - 2026-08-11 12:46: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-11 15:22: fix(db): optimize monthly budget aggregation query
 - 2026-08-11 16:59: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-08-11 17:21: refactor(api): edge route handler for rapid ledger calculation
