@@ -55,3 +55,4 @@
 - 2026-08-11 17:21: refactor(api): edge route handler for rapid ledger calculation
 - 2026-08-11 20:49: feat(analytics): spending vector category breakdowns
 - 2026-08-21 11:43: feat(alerts): push notification triggers on budget threshold breach
+- 2026-08-21 13:17: docs(api): document transaction pagination and filter schema
