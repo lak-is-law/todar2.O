@@ -1,0 +1,108 @@
+.layout {
+  display: flex;
+  min-height: 100dvh;
+  width: 100%;
+  background-color: var(--background);
+}
+
+.mainWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-left: 260px; /* Width of sidebar */
+  min-height: 100dvh;
+}
+
+.authWrapper {
+  min-height: 100dvh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--background);
+}
+
+.topbar {
+  display: none; /* Hidden on desktop */
+}
+
+.mainContent {
+  flex: 1;
+  padding: var(--space-2xl);
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Responsive */
+@media (max-width: 1023px) {
+  .mainWrapper {
+    margin-left: 80px; /* Width of collapsed sidebar */
+  }
+  
+  .mainContent {
+    padding: var(--space-xl);
+  }
+}
+
+@media (max-width: 767px) {
+  .mainWrapper {
+    margin-left: 0;
+  }
+  
+  .mainContent {
+    padding: var(--space-md) var(--space-md) calc(80px + env(safe-area-inset-bottom)) var(--space-md); /* Add padding for bottom nav */
+  }
+
+  .topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-md) var(--space-lg);
+    background: var(--background);
+    border-bottom: 1px solid var(--border-color);
+    position: sticky;
+    top: 0;
+    z-index: var(--z-nav);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    background: rgba(23, 61, 44, 0.85); /* Deep emerald semi-transparent */
+  }
+
+  .mobileNav {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+  }
+
+  .logoText {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 1.1rem;
+    letter-spacing: 0.05em;
+    color: var(--text);
+  }
+
+  .topbarActions {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .iconButton {
+    background: transparent;
+    border: none;
+    color: var(--text-muted-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-xs);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: color var(--duration-fast) ease, background var(--duration-fast) ease;
+  }
+
+  .iconButton:hover {
+    color: var(--text);
+    background: rgba(255, 255, 255, 0.05);
+  }
+}

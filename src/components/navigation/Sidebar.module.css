@@ -1,0 +1,149 @@
+.sidebar {
+  width: 260px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: var(--background);
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-xl) var(--space-md);
+  z-index: var(--z-nav);
+}
+
+.brand {
+  margin-bottom: var(--space-3xl);
+  padding: 0 var(--space-sm);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  position: relative;
+}
+
+.logoArch {
+  width: 24px;
+  height: 24px;
+  border-radius: 12px 12px 0 0;
+  background: linear-gradient(180deg, var(--primary) 0%, transparent 100%);
+  opacity: 0.8;
+}
+
+.logoText {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--text);
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.navGroup {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.navGroupBottom {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  margin-top: auto;
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--border-color);
+}
+
+.navItem {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-md);
+  color: var(--text-muted-color);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+  position: relative;
+  transition: color var(--duration-normal) var(--motion-primary),
+              background var(--duration-normal) var(--motion-primary);
+  overflow: hidden;
+}
+
+.navItem:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.navItem.active {
+  color: var(--primary);
+  background: rgba(40, 86, 64, 0.4);
+}
+
+.iconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+  transition: transform var(--duration-normal) var(--motion-primary);
+}
+
+.navItem:hover .iconWrapper {
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+.navItem.active .iconWrapper {
+  opacity: 1;
+}
+
+.label {
+  position: relative;
+  z-index: 2;
+}
+
+.activeIndicator {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: var(--primary);
+  border-radius: 0 4px 4px 0;
+  box-shadow: 0 0 10px rgba(168, 138, 82, 0.4);
+}
+
+/* Responsive */
+@media (max-width: 1023px) {
+  .sidebar {
+    width: 80px;
+    padding: var(--space-xl) var(--space-sm);
+  }
+
+  .logoText, .label {
+    display: none;
+  }
+
+  .navItem {
+    justify-content: center;
+    padding: var(--space-md);
+  }
+
+  .activeIndicator {
+    width: 2px;
+  }
+}
+
+@media (max-width: 767px) {
+  .sidebar {
+    display: none; /* Will be replaced by bottom nav or hamburger menu on mobile */
+  }
+}

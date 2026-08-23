@@ -1,109 +1,36 @@
-# Smart Expense Tracker with AI Insights
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-A full-stack web application for tracking expenses with AI-powered insights and predictions, featuring an Apple-inspired clean and minimalistic design.
+## Getting Started
 
-## 🚀 Features
+First, run the development server:
 
-- **Expense Management**: Add, view, and categorize expenses
-- **Dashboard Analytics**: Monthly totals and category-wise breakdown
-- **AI Insights**: Smart spending analysis and budget recommendations
-- **Predictions**: Next month's spending predictions based on historical data
-- **Spending Alerts**: Warning banner when monthly spending exceeds ₹5000
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
-
-## 🛠 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript (Apple-inspired UI)
-- **Backend**: Node.js + Express
-- **Database**: SQLite
-- **AI**: TensorFlow.js for trend analysis and predictions
-
-## 📁 Project Structure
-
-```
-├── frontend/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── database.js
-├── data/
-│   └── expenses.db
-└── README.md
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-## 🚀 Quick Start
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Prerequisites
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- Node.js (v14 or higher)
-- npm (comes with Node.js)
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### Installation & Setup
+## Learn More
 
-1. **Clone or download the project files**
+To learn more about Next.js, take a look at the following resources:
 
-2. **Install backend dependencies**
-   ```bash
-   cd backend
-   npm install
-   ```
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-3. **Start the backend server**
-   ```bash
-   npm start
-   ```
-   The server will start on `http://localhost:3000`
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-4. **Open the frontend**
-   - Navigate to the `frontend` folder
-   - Open `index.html` in your web browser
-   - Or use a local server: `python -m http.server 8000` and visit `http://localhost:8000`
+## Deploy on Vercel
 
-## 📖 How to Use
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-1. **Add Expenses**: Click "Add Expense" and fill in the details (date, category, amount, description)
-2. **View Dashboard**: See your monthly totals and category breakdown
-3. **AI Insights**: Check the AI-powered recommendations and predictions
-4. **Track Spending**: Monitor your expenses and get alerts when spending exceeds ₹5000
-
-## 🔧 API Endpoints
-
-- `POST /add-expense` - Add a new expense
-- `GET /expenses` - Get all expenses
-- `GET /report` - Get monthly totals and category breakdown
-- `GET /ai-insights` - Get AI-powered insights and predictions
-
-## 🎨 Design Features
-
-- **Apple-inspired UI**: Clean, minimalistic design with subtle gradients
-- **Responsive Layout**: Optimized for both desktop and mobile
-- **Smooth Animations**: Hover effects and transitions
-- **Modern Typography**: Sans-serif fonts with proper hierarchy
-
-## 🤖 AI Features
-
-- **Spending Predictions**: Uses TensorFlow.js to predict next month's expenses
-- **Category Analysis**: Identifies spending patterns by category
-- **Anomaly Detection**: Highlights unusual expense spikes
-- **Budget Recommendations**: Suggests areas to reduce spending
-
-## 📱 Browser Compatibility
-
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-
-## 🐛 Troubleshooting
-
-- If the backend doesn't start, ensure Node.js is installed and you're in the backend directory
-- If the frontend doesn't load data, check that the backend server is running on port 3000
-- Clear browser cache if you see outdated data
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

@@ -1,0 +1,161 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding: var(--space-xl) var(--space-md);
+}
+
+.termsCard {
+  max-width: 800px;
+  width: 100%;
+  padding: var(--space-2xl);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xl);
+}
+
+.header {
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: var(--space-xl);
+}
+
+.title {
+  font-size: 2.5rem;
+  color: var(--primary);
+  margin-bottom: var(--space-sm);
+}
+
+.subtitle {
+  color: var(--text-muted-color);
+  font-size: 1.1rem;
+}
+
+.contentScroll {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: var(--space-md);
+  color: var(--text);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.contentScroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.contentScroll::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 4px;
+}
+
+.contentScroll::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+.section {
+  margin-bottom: var(--space-lg);
+}
+
+.section h3 {
+  color: var(--text);
+  font-family: var(--font-display);
+  margin-bottom: var(--space-sm);
+  font-size: 1.2rem;
+}
+
+.section p {
+  color: var(--text-muted-color);
+  margin-bottom: var(--space-sm);
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+  border-top: 1px solid var(--border-color);
+  padding-top: var(--space-xl);
+}
+
+.checkboxContainer {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-md);
+  cursor: pointer;
+  user-select: none;
+}
+
+.checkboxWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  border: 2px solid var(--border-color);
+  background: rgba(0, 0, 0, 0.2);
+  transition: all var(--duration-fast) ease;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.checkboxContainer input:checked + .checkboxWrapper {
+  background: var(--primary);
+  border-color: var(--primary);
+}
+
+.checkIcon {
+  color: var(--background);
+  opacity: 0;
+  transform: scale(0.5);
+  transition: all var(--duration-fast) ease;
+}
+
+.checkboxContainer input:checked + .checkboxWrapper .checkIcon {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.checkboxText {
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.link {
+  color: var(--primary);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  transition: color var(--duration-fast) ease;
+}
+
+.link:hover {
+  color: var(--primary-hover);
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: var(--space-md);
+}
+
+@media (max-width: 767px) {
+  .termsCard {
+    padding: var(--space-xl) var(--space-md);
+  }
+  
+  .title {
+    font-size: 2rem;
+  }
+  
+  .actions {
+    flex-direction: column;
+  }
+  
+  .actions button {
+    width: 100%;
+  }
+}
