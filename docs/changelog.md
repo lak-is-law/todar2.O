@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-07-14 14:20: perf(ledger): batch transaction insert latency optimization
-- 2026-07-14 14:29: feat(alerts): push notification triggers on budget threshold breach
-- 2026-07-14 15:10: fix(db): optimize monthly budget aggregation query
-- 2026-07-14 16:25: fix(db): optimize monthly budget aggregation query
-- 2026-07-14 17:28: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-07-14 18:03: docs(api): document transaction pagination and filter schema
-- 2026-07-14 19:02: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-07-14 20:59: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-07-14 21:49: feat(recurring): automated subscription cadence detection algorithm
 - 2026-07-14 22:26: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-07-15 10:47: feat(recurring): automated subscription cadence detection algorithm
 - 2026-07-15 13:02: fix(db): optimize monthly budget aggregation query
@@ -58,3 +49,4 @@
 - 2026-08-21 13:17: docs(api): document transaction pagination and filter schema
 - 2026-08-21 19:30: feat(alerts): push notification triggers on budget threshold breach
 - 2026-08-21 20:11: feat(recurring): automated subscription cadence detection algorithm
+- 2026-08-26 20:02: perf(cache): Redis caching layer for monthly expense summaries
