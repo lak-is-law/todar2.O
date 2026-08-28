@@ -51,3 +51,4 @@
 - 2026-08-21 20:11: feat(recurring): automated subscription cadence detection algorithm
 - 2026-08-26 20:02: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-08-28 10:01: feat(analytics): spending vector category breakdowns
+- 2026-08-28 11:40: refactor(auth): token refresh rotation and session store
