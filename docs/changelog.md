@@ -55,3 +55,4 @@
 - 2026-08-28 13:57: feat(recurring): automated subscription cadence detection algorithm
 - 2026-08-28 14:26: docs(api): document transaction pagination and filter schema
 - 2026-08-28 15:21: perf(cache): Redis caching layer for monthly expense summaries
+- 2026-08-28 17:05: feat(ui): responsive budget breakdown charts with Tailwind
