@@ -57,3 +57,4 @@
 - 2026-08-28 15:21: perf(cache): Redis caching layer for monthly expense summaries
 - 2026-08-28 17:05: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-08-28 21:45: feat(alerts): push notification triggers on budget threshold breach
+- 2026-08-31 16:31: refactor(schema): add foreign key indexes on ledger transactions
