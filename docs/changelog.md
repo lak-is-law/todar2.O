@@ -51,3 +51,4 @@
 - 2026-08-31 16:31: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-31 21:34: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-09-01 10:31: docs(api): document transaction pagination and filter schema
+- 2026-09-01 18:00: feat(recurring): automated subscription cadence detection algorithm
