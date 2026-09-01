@@ -50,3 +50,4 @@
 - 2026-08-28 21:45: feat(alerts): push notification triggers on budget threshold breach
 - 2026-08-31 16:31: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-31 21:34: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-09-01 10:31: docs(api): document transaction pagination and filter schema
