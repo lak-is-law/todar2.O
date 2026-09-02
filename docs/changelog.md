@@ -53,3 +53,4 @@
 - 2026-09-01 10:31: docs(api): document transaction pagination and filter schema
 - 2026-09-01 18:00: feat(recurring): automated subscription cadence detection algorithm
 - 2026-09-02 17:57: feat(alerts): push notification triggers on budget threshold breach
+- 2026-09-02 21:13: test(forecasting): unit tests for predictive burn-rate bounds
