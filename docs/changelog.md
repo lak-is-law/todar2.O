@@ -56,3 +56,4 @@
 - 2026-09-04 18:45: perf(ledger): batch transaction insert latency optimization
 - 2026-09-04 19:53: fix(categorization): rule-based fallback when ML tag confidence is low
 - 2026-09-04 21:40: fix(categorization): rule-based fallback when ML tag confidence is low
+- 2026-09-04 22:29: refactor(api): edge route handler for rapid ledger calculation
