@@ -52,3 +52,4 @@
 - 2026-09-04 14:19: feat(analytics): spending vector category breakdowns
 - 2026-09-04 15:45: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-09-04 16:14: test(forecasting): unit tests for predictive burn-rate bounds
+- 2026-09-04 17:31: feat(export): CSV ledger export with localized currency format
