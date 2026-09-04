@@ -50,3 +50,4 @@
 - 2026-09-04 12:24: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-09-04 13:52: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-09-04 14:19: feat(analytics): spending vector category breakdowns
+- 2026-09-04 15:45: feat(ui): responsive budget breakdown charts with Tailwind
