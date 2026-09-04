@@ -57,3 +57,4 @@
 - 2026-09-02 22:32: refactor(api): edge route handler for rapid ledger calculation
 - 2026-09-04 10:11: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-09-04 12:24: feat(ui): responsive budget breakdown charts with Tailwind
+- 2026-09-04 13:52: refactor(schema): add foreign key indexes on ledger transactions
