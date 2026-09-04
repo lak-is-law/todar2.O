@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-07-20 13:18: feat(export): CSV ledger export with localized currency format
-- 2026-07-20 16:16: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-07-21 10:51: feat(analytics): spending vector category breakdowns
-- 2026-07-21 12:59: fix(db): optimize monthly budget aggregation query
-- 2026-07-21 17:55: feat(alerts): push notification triggers on budget threshold breach
-- 2026-07-21 18:50: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-07-21 19:14: refactor(auth): token refresh rotation and session store
-- 2026-07-30 10:09: feat(analytics): spending vector category breakdowns
-- 2026-07-30 12:52: refactor(auth): token refresh rotation and session store
 - 2026-07-30 14:15: fix(db): optimize monthly budget aggregation query
 - 2026-07-30 15:02: refactor(auth): token refresh rotation and session store
 - 2026-07-30 16:55: test(forecasting): unit tests for predictive burn-rate bounds
@@ -58,3 +49,4 @@
 - 2026-09-04 10:11: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-09-04 12:24: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-09-04 13:52: refactor(schema): add foreign key indexes on ledger transactions
+- 2026-09-04 14:19: feat(analytics): spending vector category breakdowns
