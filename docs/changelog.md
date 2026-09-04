@@ -54,3 +54,4 @@
 - 2026-09-04 16:14: test(forecasting): unit tests for predictive burn-rate bounds
 - 2026-09-04 17:31: feat(export): CSV ledger export with localized currency format
 - 2026-09-04 18:45: perf(ledger): batch transaction insert latency optimization
+- 2026-09-04 19:53: fix(categorization): rule-based fallback when ML tag confidence is low
