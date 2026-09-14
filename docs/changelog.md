@@ -51,3 +51,4 @@
 - 2026-09-14 12:55: feat(recurring): automated subscription cadence detection algorithm
 - 2026-09-14 13:07: docs(api): document transaction pagination and filter schema
 - 2026-09-14 16:53: feat(analytics): spending vector category breakdowns
+- 2026-09-14 22:26: refactor(auth): token refresh rotation and session store
