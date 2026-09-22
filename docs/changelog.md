@@ -56,3 +56,4 @@
 - 2026-09-22 11:32: refactor(api): edge route handler for rapid ledger calculation
 - 2026-09-22 13:39: feat(ui): responsive budget breakdown charts with Tailwind
 - 2026-09-22 15:05: refactor(auth): token refresh rotation and session store
+- 2026-09-22 18:04: feat(forecasting): exponential smoothing pipeline for monthly burn
