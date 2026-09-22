@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-08-03 17:36: refactor(api): edge route handler for rapid ledger calculation
-- 2026-08-03 20:31: perf(ledger): batch transaction insert latency optimization
-- 2026-08-03 22:27: refactor(api): edge route handler for rapid ledger calculation
-- 2026-08-05 10:52: feat(forecasting): exponential smoothing pipeline for monthly burn
-- 2026-08-05 11:25: docs(api): document transaction pagination and filter schema
-- 2026-08-05 12:20: docs(api): document transaction pagination and filter schema
-- 2026-08-05 14:05: refactor(auth): token refresh rotation and session store
-- 2026-08-05 16:03: perf(cache): Redis caching layer for monthly expense summaries
-- 2026-08-05 17:43: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-05 18:45: docs(api): document transaction pagination and filter schema
 - 2026-08-05 19:34: refactor(schema): add foreign key indexes on ledger transactions
 - 2026-08-05 20:20: perf(ledger): batch transaction insert latency optimization
@@ -58,3 +49,4 @@
 - 2026-09-22 15:05: refactor(auth): token refresh rotation and session store
 - 2026-09-22 18:04: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-09-22 20:57: refactor(api): edge route handler for rapid ledger calculation
+- 2026-09-22 21:51: refactor(api): edge route handler for rapid ledger calculation
