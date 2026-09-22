@@ -53,3 +53,4 @@
 - 2026-09-14 16:53: feat(analytics): spending vector category breakdowns
 - 2026-09-14 22:26: refactor(auth): token refresh rotation and session store
 - 2026-09-22 10:19: refactor(auth): token refresh rotation and session store
+- 2026-09-22 11:32: refactor(api): edge route handler for rapid ledger calculation
