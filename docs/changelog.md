@@ -50,3 +50,4 @@
 - 2026-09-22 18:04: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-09-22 20:57: refactor(api): edge route handler for rapid ledger calculation
 - 2026-09-22 21:51: refactor(api): edge route handler for rapid ledger calculation
+- 2026-09-25 12:34: feat(ui): responsive budget breakdown charts with Tailwind
