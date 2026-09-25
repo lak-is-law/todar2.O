@@ -54,3 +54,4 @@
 - 2026-09-25 14:53: refactor(auth): token refresh rotation and session store
 - 2026-09-25 16:11: feat(forecasting): exponential smoothing pipeline for monthly burn
 - 2026-09-25 20:12: refactor(auth): token refresh rotation and session store
+- 2026-09-25 21:19: perf(ledger): batch transaction insert latency optimization
