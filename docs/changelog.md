@@ -57,3 +57,4 @@
 - 2026-09-25 21:19: perf(ledger): batch transaction insert latency optimization
 - 2026-09-25 22:51: docs(api): document transaction pagination and filter schema
 - 2026-09-28 10:17: feat(export): CSV ledger export with localized currency format
+- 2026-09-28 16:12: perf(ledger): batch transaction insert latency optimization
