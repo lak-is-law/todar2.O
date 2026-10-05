@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-08-05 18:45: docs(api): document transaction pagination and filter schema
-- 2026-08-05 19:34: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-08-05 20:20: perf(ledger): batch transaction insert latency optimization
-- 2026-08-05 22:30: fix(categorization): rule-based fallback when ML tag confidence is low
-- 2026-08-11 12:46: refactor(schema): add foreign key indexes on ledger transactions
-- 2026-08-11 15:22: fix(db): optimize monthly budget aggregation query
-- 2026-08-11 16:59: feat(ui): responsive budget breakdown charts with Tailwind
-- 2026-08-11 17:21: refactor(api): edge route handler for rapid ledger calculation
-- 2026-08-11 20:49: feat(analytics): spending vector category breakdowns
 - 2026-08-21 11:43: feat(alerts): push notification triggers on budget threshold breach
 - 2026-08-21 13:17: docs(api): document transaction pagination and filter schema
 - 2026-08-21 19:30: feat(alerts): push notification triggers on budget threshold breach
@@ -58,3 +49,4 @@
 - 2026-09-25 22:51: docs(api): document transaction pagination and filter schema
 - 2026-09-28 10:17: feat(export): CSV ledger export with localized currency format
 - 2026-09-28 16:12: perf(ledger): batch transaction insert latency optimization
+- 2026-10-05 13:49: refactor(api): edge route handler for rapid ledger calculation
